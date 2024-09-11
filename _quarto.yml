@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mukherjee Lab"
+  page-navigation: true
+  navbar:
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: People
+        href: people.qmd
+      - text: Software
+        href: software.qmd
+      - text: Publications
+        href: publications.qmd
+
+language: 
+  search-text-placeholder: Search  # Placeholder text for Search
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
