@@ -2,4 +2,4 @@
 title: "Mukherjee Lab"
 ---
 
-This is the homepage.
+Welcome to the Mukherjee Lab.

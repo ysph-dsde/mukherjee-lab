@@ -14,8 +14,9 @@ website:
         href: people.qmd
       - text: Software
         href: software.qmd
-      - text: Publications
-        href: publications.qmd
+      - text: Research
+        href: research.qmd
+        
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search
