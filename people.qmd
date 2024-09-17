@@ -15,8 +15,6 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 
 Alicia Boyd, PhD, is an associate research scientist in the Department of Biostatistics at Yale School of Public Health. She received her PhD in Computer Science from DePaul University in Chicago, Illinois, and completed her postdoctoral fellowship at New York University. She is an affiliate researcher with the Interdisciplinary Software Practice Improvement Research and Development (or INSPIRED) Lab at George Mason University and Gadiraju Lab at Wellesley College.  
 
- 
-
 Dr. Boyd is a social-technical researcher guided by wisdom, patience, and thoughtfulness. Her research is at the intersection of technology, privacy, and reflexivity, which aims to implement reflexive practices in quantitative areas such as software development, large language models, data science, and machine learning. Some of her recent and ongoing projects include the investigation of improving disability representation in generative artificial intelligence models and how to incorporate reflexive practices in gig work design. Within the Data Science Data Equity (DSDE) Initiative, Dr. Boyd hopes to develop a reflexive praxis for technical applications. 
 
 
@@ -34,10 +32,10 @@ Currently, he is a Data Scientist I at Yale University, where he develops and ex
 ![](images/headshots/shelby-golden.jpeg){width=300}
 
 
-Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Masters of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelors of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics. 
+Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics. 
 
  
-At Data Science and Data Equity Initiative, Shelby is responsible for managing the group's GitHub repository, ensuring compliance with data use Agreements and IRBs, overseeing data harmonization and warehousing efforts, providing AI/ML consultation, offering Python support, developing APIs, and collaborating on analytic projects. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge. 
+At the Data Science and Data Equity Initiative, Shelby is responsible for managing the group's GitHub repository, ensuring compliance with data use Agreements and IRBs, overseeing data harmonization and warehousing efforts, providing AI/ML consultation, offering Python support, developing APIs, and collaborating on analytic projects. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge. 
 
 
 
@@ -56,7 +54,7 @@ Sohani has successfully led initiatives across diverse sectors. With over a deca
 ![](images/headshots/lillian-rountree.jpg){width=300}
 
 
-Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD at the University of Michigan. She did her undergraduate studies atColumbia University, graduating in May 2023 with a bachelors of arts in statistics and French. Her research interests include fairness in clinical modeling,methods for infectious disease transmission, and her dissertation focus, which is currently undiscovered. In her other life, outside of research andacademia, she is a fiction writer; in her free time beyond that, she loves literature, pop culture, and meandering walks.
+Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD at the University of Michigan. She did her undergraduate studies at Columbia University, graduating in May 2023 with a Bachelors of Arts in Statistics and French. Her research interests include fairness in clinical modeling, methods for infectious disease transmission, and her dissertation focus, which is currently undiscovered. In her other life, outside of research and academia, she is a fiction writer; in her free time beyond that, she loves literature, pop culture, and meandering walks.
 
 
 ## Yi-Ting Lin
@@ -64,7 +62,7 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 ![](images/headshots/yi-ting-lin.jpg){width=300}
 
 
-I am a second-year PhD student in the Department of Biostatistics at the University of Michigan. I got my bachelor's degree in economics and statisticsfrom National Taipei University and my master's degree in biostatistics from Johns Hopkins University. My research interests are spatial statistics, causalmediation analysis, and environmental statistics.
+I am a second-year PhD student in the Department of Biostatistics at the University of Michigan. I got my bachelor's degree in economics and statistics from National Taipei University and my master's degree in biostatistics from Johns Hopkins University. My research interests are spatial statistics, causal mediation analysis, and environmental statistics.
 
 
 
@@ -72,7 +70,7 @@ I am a second-year PhD student in the Department of Biostatistics at the Univers
 
 ![](images/headshots/ritoban-kundu.jpg){width=300}
 
-I am currently a fourth-year Ph.D. student in the Department of Biostatistics at the University of Michigan. Three years ago, I relocated to the UnitedStates from my hometown of Kolkata, India. I earned my undergraduate and master's degrees in Statistics from the Indian Statistical Institute in Kolkata.My current research focuses on addressing selection bias in electronic health records data and conducting Causal mediation analysis with networkinterference. Beyond my academic pursuits, I have a keen interest in traveling, hiking, photography, watching arthouse films, and participating in varioussports such as badminton, cricket, squash, biking, and skiing.
+I am currently a fourth-year Ph.D. student in the Department of Biostatistics at the University of Michigan. Three years ago, I relocated to the United States from my hometown of Kolkata, India. I earned my undergraduate and master's degrees in Statistics from the Indian Statistical Institute in Kolkata. My current research focuses on addressing selection bias in electronic health records data and conducting Causal mediation analysis with network interference. Beyond my academic pursuits, I have a keen interest in traveling, hiking, photography, watching arthouse films, and participating in various sports such as badminton, cricket, squash, biking, and skiing.
 
 
 
@@ -87,4 +85,4 @@ I’m a 5th year PhD student in Biostatistics at the University of Michigan. My 
 
 ![](images/headshots/youqi-yang.jpeg){width=300}
 
-Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee andDr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture,discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
+Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.

@@ -2,4 +2,4 @@
 title: "Mukherjee Lab"
 ---
 
-Welcome to the Mukherjee Lab.
+![](images/construction.jpg)

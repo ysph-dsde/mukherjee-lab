@@ -10,8 +10,12 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: About
+        href: about.qmd
       - text: People
         href: people.qmd
+      - text: Alumnae
+        href: alumnae.qmd
       - text: Software
         href: software.qmd
       - text: Research
