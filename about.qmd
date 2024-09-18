@@ -6,10 +6,10 @@ title: "About"
 
 The mission of the Mukherjee Lab is to democratize the use of big data to improve human health. Investigators affiliated with the Lab develop principled data science methods for inference and prediction with large, heterogeneous data sources often collected from databases not designed for population-based research. Our goal is to disseminate user-friendly analytic and visualization tools for health researchers aspiring to reduce disease and improve health for the population and the patient. 
 
-- We believe in reproducibility and scientific rigor 
-- We believe in innovation 
-- We believe in inclusion 
-- We pursue impact 
+- We believe in reproducibility and scientific rigor. 
+- We believe in innovation. 
+- We believe in inclusion. 
+- We pursue impact. 
 
 
 ## Vision 
