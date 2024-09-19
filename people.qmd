@@ -24,7 +24,7 @@ Dr. Boyd is a social-technical researcher guided by wisdom, patience, and though
 
 ## Howard Baik, M.S.
 
-![](images/headshots/howard-baek.jpg){width=300}
+![](images/headshots/howard-baik.jpg){width=300}
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/howard-baik/) [{{< fa envelope size=lg >}}](mailto:howard.baik@yale.edu) [{{< fa file-lines size=lg >}}](cv/howard-baik.pdf) [{{< fa user size=lg >}}](https://www.howardbaik.com/) [{{< fa brands github size=lg >}}](https://github.com/howardbaik) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/howard-baik/)
 
