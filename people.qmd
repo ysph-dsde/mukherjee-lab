@@ -9,7 +9,7 @@ filters:
 ![](images/headshots/bhramar-mukherjee.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
- [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/bhramar-mukherjee/) [{{< fa envelope size=lg >}}](mailto:bhramar.mukherjee@yale.edu) [{{< fa file-lines size=lg >}}](cv/bhramar-mukherjee.pdf) [{{< fa graduation-cap size=lg >}}](https://scholar.google.com/citations?user=-zwWIG4AAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/BhramarBioStat) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/bhramar-mukherjee-483810320/)       
+ [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/bhramar-mukherjee/) [{{< fa envelope size=lg >}}](mailto:bhramar.mukherjee@yale.edu) [{{< fa file-lines size=lg >}}](cv/bhramar-mukherjee.pdf) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=-zwWIG4AAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/BhramarBioStat) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/bhramar-mukherjee-483810320/)       
 
 Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics and Professor of Chronic Disease Epidemiology at the Yale School of Public Health (YSPH). Professor Mukherjee serves as the inaugural Senior Associate Dean of Public Health Data Science and Data Equity at YSPH. She holds a secondary appointment in the Department of Statistics and Data Science and is affiliated with the MacMillan Center and the Institute for the Foundations of Data Science. She serves on the Yale Cancer Center Director’s cabinet.
 
@@ -17,7 +17,7 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 
 ![](images/headshots/alicia-boyd.png){width=300}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/alicia-boyd/) [{{< fa envelope size=lg >}}](mailto:alicia.boyd@yale.edu) [{{< fa file-lines size=lg >}}](cv/alicia-boyd.pdf) [{{< fa user size=lg >}}](https://www.aliciaeboyd.com/) [{{< fa graduation-cap size=lg >}}](https://scholar.google.com/citations?user=lvzbG6AAAAAJ&hl=en) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/boydae23/)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/alicia-boyd/) [{{< fa envelope size=lg >}}](mailto:alicia.boyd@yale.edu) [{{< fa file-lines size=lg >}}](cv/alicia-boyd.pdf) [{{< fa user size=lg >}}](https://www.aliciaeboyd.com/) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=lvzbG6AAAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/Stippy_eep_eep) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/boydae23/)
 
 Alicia Boyd, PhD, is an Associate Research Scientist in the Department of Biostatistics at Yale School of Public Health. She received her PhD in Computer Science from DePaul University in Chicago, Illinois, and completed her postdoctoral fellowship at New York University. She is an affiliate researcher with the Interdisciplinary Software Practice Improvement Research and Development (or INSPIRED) Lab at George Mason University and Gadiraju Lab at Wellesley College.
 
@@ -67,7 +67,7 @@ I’m a 5th year PhD student in Biostatistics at the University of Michigan. My 
 
 ![](images/headshots/ritoban-kundu.png){width=300}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](cv/ritoban-kundu.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](cv/ritoban-kundu.pdf) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/) 
 
 I am currently a fourth-year Ph.D. student in the Department of Biostatistics at the University of Michigan. Three years ago, I relocated to the United States from my hometown of Kolkata, India. I earned my undergraduate and master's degrees in Statistics from the Indian Statistical Institute in Kolkata. My current research focuses on addressing selection bias in electronic health records data and conducting Causal mediation analysis with network interference. Beyond my academic pursuits, I have a keen interest in traveling, hiking, photography, watching arthouse films, and participating in various sports such as badminton, cricket, squash, biking, and skiing.
 
@@ -77,7 +77,7 @@ I am currently a fourth-year Ph.D. student in the Department of Biostatistics at
 
 ![](images/headshots/yi-ting-lin.png){width=300}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands github size=lg >}}](https://github.com/asus50901) [{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](cv/yi-ting-lin.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](cv/yi-ting-lin.pdf)  [{{< fa brands github size=lg >}}](https://github.com/asus50901) 
 
 I am a second-year PhD student in the Department of Biostatistics at the University of Michigan. I got my bachelor's degree in economics and statistics from National Taipei University and my master's degree in biostatistics from Johns Hopkins University. My research interests are spatial statistics, causal mediation analysis, and environmental statistics.
 
@@ -96,6 +96,6 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 
 ![](images/headshots/youqi-yang.png){width=300}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](cv/youqi-yang.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](cv/youqi-yang.pdf)  [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   
 
 Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
