@@ -20,7 +20,9 @@ website:
         href: software.qmd
       - text: Research
         href: research.qmd
-        
+      - text: Public Health DSDE at Yale
+        href: https://www.google.com/
+        target: _blank
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search
