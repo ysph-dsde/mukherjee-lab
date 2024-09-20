@@ -1,5 +1,19 @@
 ---
 title: "Research"
+editor_options: 
+  chunk_output_type: console
 ---
 
-This is the research page.
+```{r setup, echo=FALSE, eval = FALSE}
+source("_utils.R")
+
+# Get local copy of pubs
+pubs <- readr::read_csv(here::here('content', 'pubs.csv'))
+
+# Process pubs object
+pubs_processed <- process_pubs(pubs)
+```
+
+
+## Publications
+
