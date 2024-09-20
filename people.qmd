@@ -45,9 +45,9 @@ At the Data Science and Data Equity Initiative, Shelby is responsible for managi
 
 ## Sohani Sirdeshmukh, M.A.
 
-![](images/headshots/sohani-sirdeshmukh.jpg){width=300}
+![](images/headshots/sohani-sirdeshmukh.png){width=300}
 
- [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/sohani-sirdeshmukh/) [{{< fa envelope size=lg >}}](mailto:sohani.sirdeshmukh@yale.edu) [{{< fa file-lines size=lg >}}](cv/sohani-sirdeshmukh.pdf) [{{< fa user size=lg >}}](https://www.ssohani.com/) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sohanis/)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/sohani-sirdeshmukh/) [{{< fa envelope size=lg >}}](mailto:sohani.sirdeshmukh@yale.edu) [{{< fa file-lines size=lg >}}](cv/sohani-sirdeshmukh.pdf) [{{< fa user size=lg >}}](https://www.ssohani.com/) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sohanis/)
 
 Sohani received her Master in Sustainable International Development from Brandeis University, and a Post Graduate Diploma and Bachelor’s in Bioinformatics, Biochemistry, Microbiology and Chemistry. She has experience in HIV and infectious diseases research and science content development, including conducting clinical trials, analyzing data, and collaboratively developing educational materials for middle and high school students in low-income communities.
 
@@ -56,18 +56,18 @@ Sohani has successfully led initiatives across diverse sectors. With over a deca
 
 ## Jiacong Du
 
-![](images/headshots/jiacong-du.jpg){width=300}
+![](images/headshots/jiacong-du.png){width=300}
 
-[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) [{{< fa file-lines size=lg  >}}](cv/jiacong-du.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) [{{< fa file-lines size=lg  >}}](cv/jiacong-du.pdf)
 
 I’m a 5th year PhD student in Biostatistics at the University of Michigan. My dissertation focuses on methods development for using electronic healthrecords (EHR), specifically addressing confounding, selection bias and bias from clinically informative missingness.
 
 
 ## Ritoban Kundu
 
-![](images/headshots/ritoban-kundu.jpg){width=300}
+![](images/headshots/ritoban-kundu.png){width=300}
 
-[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](cv/ritoban-kundu.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](cv/ritoban-kundu.pdf)
 
 I am currently a fourth-year Ph.D. student in the Department of Biostatistics at the University of Michigan. Three years ago, I relocated to the United States from my hometown of Kolkata, India. I earned my undergraduate and master's degrees in Statistics from the Indian Statistical Institute in Kolkata. My current research focuses on addressing selection bias in electronic health records data and conducting Causal mediation analysis with network interference. Beyond my academic pursuits, I have a keen interest in traveling, hiking, photography, watching arthouse films, and participating in various sports such as badminton, cricket, squash, biking, and skiing.
 
@@ -75,18 +75,18 @@ I am currently a fourth-year Ph.D. student in the Department of Biostatistics at
 
 ## Yi-Ting Lin
 
-![](images/headshots/yi-ting-lin.jpg){width=300}
+![](images/headshots/yi-ting-lin.png){width=300}
 
-[{{< fa brands github size=lg >}}](https://github.com/asus50901) [{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](cv/yi-ting-lin.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands github size=lg >}}](https://github.com/asus50901) [{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](cv/yi-ting-lin.pdf)
 
 I am a second-year PhD student in the Department of Biostatistics at the University of Michigan. I got my bachelor's degree in economics and statistics from National Taipei University and my master's degree in biostatistics from Johns Hopkins University. My research interests are spatial statistics, causal mediation analysis, and environmental statistics.
 
 
 ## Lillian Rountree
 
-![](images/headshots/lillian-rountree.jpg){width=300}
+![](images/headshots/lillian-rountree.png){width=300}
 
-[{{< fa envelope size=lg >}}](mailto:ilex@umich.edu) [{{< fa file-lines size=lg >}}](cv/lillian-rountree.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:ilex@umich.edu) [{{< fa file-lines size=lg >}}](cv/lillian-rountree.pdf)
 
 Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD at the University of Michigan. She did her undergraduate studies at Columbia University, graduating in May 2023 with a Bachelors of Arts in Statistics and French. Her research interests include fairness in clinical modeling, methods for infectious disease transmission, and her dissertation focus, which is currently undiscovered. In her other life, outside of research and academia, she is a fiction writer; in her free time beyond that, she loves literature, pop culture, and meandering walks.
 
@@ -94,8 +94,8 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 
 ## Youqi Yang
 
-![](images/headshots/youqi-yang.jpeg){width=300}
+![](images/headshots/youqi-yang.png){width=300}
 
-[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](cv/youqi-yang.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](cv/youqi-yang.pdf)
 
 Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
