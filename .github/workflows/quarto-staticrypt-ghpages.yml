@@ -1,0 +1,88 @@
+# based on:
+#  - https://github.com/quarto-dev/quarto-actions/blob/main/examples/quarto-book-gh-pages.yaml
+#  - https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+  # to be able to trigger a manual build
+  workflow_dispatch:
+
+name: Build and deploy Quarto site
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PROTECTED_DIR: _site
+      PASSWORD: 1password
+      # PASSWORD: ${{ secrets.YOUR_SECRET }}
+    steps:
+      - name: Check PASSWORD variable
+        run: |
+          if [[ -z "${{ env.PASSWORD }}" ]]; then
+            echo "PASSWORD variable is not set"
+            exit 1
+          fi
+      - uses: actions/checkout@v4
+
+      # uncomment to run R code on build
+      # - uses: r-lib/actions/setup-r@v2
+      #   with:
+      #   use-public-rspm: true
+      # - uses: r-lib/actions/setup-renv@v2
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install Staticrypt
+        run: npm install -g staticrypt
+      - name: Encrypt Pages
+        run: staticrypt $PROTECTED_DIR/* -r -d "$PROTECTED_DIR" -p "$PASSWORD" --short
+
+      - name: Fix permissions
+        run: |
+          chmod -v -R +rX "$PROTECTED_DIR" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{env.PROTECTED_DIR}}
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup pages
+        uses: actions/configure-pages@v3
+  
+      - name: Deploy to GitHub pages
+        id: deployment
+        uses: actions/deploy-pages@v4
