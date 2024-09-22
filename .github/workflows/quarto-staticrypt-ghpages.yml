@@ -28,7 +28,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PROTECTED_DIR: _site
+      PROTECTED_DIR: docs
       PASSWORD: 1password
       # PASSWORD: ${{ secrets.YOUR_SECRET }}
     steps:
