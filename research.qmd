@@ -9,6 +9,7 @@ execute:
 ```{r setup}
 source("_utils.R")
 
+# Read pubs
 pubs <- readr::read_csv(here::here("content", "pubs.csv"))
 ```
  
