@@ -29,8 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PROTECTED_DIR: docs
-      PASSWORD: 1password
-      # PASSWORD: ${{ secrets.YOUR_SECRET }}
+      PASSWORD: ${{ secrets.QUARTO_PASSWORD }}
     steps:
       - name: Check PASSWORD variable
         run: |
