@@ -1,6 +1,17 @@
 ---
 title: "Research"
-editor_options: 
-  chunk_output_type: console
+execute: 
+  echo: false
+  message: false
+  warning: false
 ---
  
+```{r setup}
+source("_utils.R")
+
+pubs <- readr::read_csv(here::here("content", "pubs.csv"))
+```
+ 
+## Publications
+
+`r make_pub_list(pubs)`
