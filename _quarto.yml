@@ -20,6 +20,8 @@ website:
         href: software.qmd
       - text: Research
         href: research.qmd
+      - text: Education and Outreach
+        href: education-outreach
       - text: Public Health DSDE at Yale
         href: https://www.google.com/
         target: _blank

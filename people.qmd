@@ -99,5 +99,3 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/youqi-yang.pdf)  [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   
 
 Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
-
-a
