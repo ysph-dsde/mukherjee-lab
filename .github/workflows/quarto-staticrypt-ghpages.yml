@@ -45,7 +45,7 @@ jobs:
       #  Install R packages
       - name: Install R packages
         run: |
-          R -e 'install.packages(c("rmarkdown", "knitr", "markdown", "htmltools", "glue"))'
+          R -e 'install.packages(c("rmarkdown", "knitr", "markdown", "htmltools", "glue", "pak"))'
           R -e 'pak::pkg_install("rentrez")'
 
       - name: Install Quarto
