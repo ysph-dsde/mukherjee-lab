@@ -8,9 +8,11 @@ Depends:
     R (>= 3.1.0)
 Imports: 
     htmltools,
+    rmarkdown,
     markdown,
     glue,
     rentrez
+    
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
