@@ -2,50 +2,62 @@ library(htmltools)
 library(stringr)
 library(dplyr)
 library(readr)
-library(fontawesome)
+library(rentrez)
 
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  warning = FALSE,
-  message = FALSE,
-  fig.retina = 3,
-  comment = "#>"
-)
-
-make_doi_link <- function(citation) {
+get_citations <- function() {
+  # Initial search for Bhramar Mukherjee
+  initial_search <- entrez_search("pubmed",
+                                  "Bhramar Mukherjee", 
+                                  retmax = 1000,
+                                  use_history = TRUE) # return web_history for use in later calls
   
-  citation <- gsub(
-    pattern = "\\.$", 
-    replacement = "", 
-    citation
-  )
+  # Grab PMID
+  pmids <- initial_search$ids
+  # Find summary
+  pmid_summary <- entrez_summary(db = "pubmed", 
+                                 web_history = initial_search$web_history)
   
-  citation <- gsub(
-    pattern = "(DOI: )([0-9\\.\\/a-zA-Z]+)", 
-    replacement = "DOI: [\\2](https://doi.org/\\2)", 
-    citation
-  )
+  # Final result
+  citations <- vector("character", length(pmid_summary))
+  for (ii in c(1:length(pmid_summary))) {
+    # Single publication
+    pub <- pmid_summary[[ii]]
+    
+    # Extract relevant info for each publication
+    title <- pub$title
+    epub_date <- paste0(pub$epubdate, ".")
+    authors <- pub$authors$name
+    authors <- paste0(authors, collapse = ", ")
+    journal <- paste0(pub$source, ".")
+    doi <- paste0(pub$elocationid, ".")
+    uid <- pub$uid
+    pmid <- paste("PMID:", pub$uid)
+    title_hyperpink <- glue::glue('[{title}](https://pubmed.ncbi.nlm.nih.gov/{uid}/)')
+    
+    citation <- paste0(title_hyperpink, "<br> ", authors, "<br> ", journal, " ",
+                       epub_date, " ", doi, "<br> ", pmid)
+    
+    citations[ii] <- citation
+  }
   
-  citation
+  citations
 }
 
-make_pub_list <- function(pubs) {
+make_pub_list <- function(citations) {
   pubs_list <- list()
-  for (ii in 1:nrow(pubs)) {
-    pubs_list[[ii]] <- make_pub(pubs[ii, ], index = ii)
+  for (ii in 1:length(citations)) {
+    pubs_list[[ii]] <- make_pub(citations[ii], index = ii)
   }
   return(htmltools::HTML(paste(unlist(pubs_list), collapse = "")))
 }
 
-make_pub <- function(pubs, index = NULL) {
-  # Make DOI link
-  pubs$citation <- make_doi_link(pubs$citation)
+make_pub <- function(citation, index = NULL) {
   
   header <- FALSE
   if (is.null(index)) {
-    cite <- pubs$citation
+    cite <- citation$citation
   } else {
-    cite <- glue::glue('{index}) {pubs$citation}')
+    cite <- glue::glue('{index}) {citation}')
     if (index == 1) { header <- TRUE }
   }
   return(htmltools::HTML(glue::glue(

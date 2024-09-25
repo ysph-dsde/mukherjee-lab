@@ -9,10 +9,9 @@ execute:
 ```{r setup}
 source("_utils.R")
 
-# Read pubs
-pubs <- readr::read_csv(here::here("content", "pubs.csv"))
+citations <- get_citations()
 ```
  
 ## Publications
 
-`r make_pub_list(pubs)`
+`r make_pub_list(citations)`
