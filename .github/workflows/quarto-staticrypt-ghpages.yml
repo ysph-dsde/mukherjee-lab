@@ -45,7 +45,7 @@ jobs:
       #  Install R packages
       - name: Install R packages
         run: |
-          R -e 'install.packages(c("rmarkdown", "knitr", "markdown", "htmltools", "glue", "rentrez"))'
+          R -e 'install.packages(c("rmarkdown", "knitr", "markdown", "htmltools", "glue", "httr", "rentrez"))'
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
