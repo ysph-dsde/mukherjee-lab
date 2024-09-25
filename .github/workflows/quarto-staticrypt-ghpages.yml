@@ -39,16 +39,13 @@ jobs:
           fi
       - uses: actions/checkout@v4
 
-      # - uses: r-lib/actions/setup-r@v2
-      #   with:
-      #     use-public-rspm: true
-      #     
-      # - uses: r-lib/actions/setup-renv@v2
-      # 
-      # # Install R packages
-      # - name: Install R packages
-      #   run: |
-      #     R -e 'install.packages(c("rmarkdown", "knitr"))'
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+       
+      #  Install R packages
+      - name: Install R packages
+        run: |
+          R -e 'install.packages(c("rmarkdown", "knitr"))'
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2

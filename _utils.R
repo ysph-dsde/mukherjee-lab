@@ -1,7 +1,6 @@
 library(htmltools)
-library(stringr)
-library(dplyr)
-library(readr)
+library(markdown)
+library(glue)
 library(rentrez)
 
 get_citations <- function() {
