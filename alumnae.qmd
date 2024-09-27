@@ -2,4 +2,75 @@
 title: "Alumnae"
 ---
 
-This is the Alumnae page.
+## Doctoral Students
+
+### University of Florida: 2002-2006
+
+1. Samiran Sinha, (Ph.D. 2004; Co-chair with Malay Ghosh) Professor, Department of Statistics, Texas A & M University.
+
+2. Li Zhang, (Ph.D. 2006; Co-chair with Malay Ghosh) Professor, Division of Hematology and
+Medical Oncology Department of Medicine UCSF Helen Diller Family Comprehensive Cancer
+Center and Department of Epidemiology and Biostatistics University of California, San
+Francisco.
+
+3. Upasana Santra, (Ph.D. 2007; Co-chair with Malay Ghosh), Lecturer, Valencia Community
+College, Florida. 
+
+### University of Michigan: 2006-
+
+1. Jaeil Ahn, (Ph.D. 2011; Co-chair with Timothy Johnson), Associate Professor, Georgetown
+University, Division of Biostatistics and Bioinformatics.
+
+2. Philip Simon Boonstra, (Ph.D. 2012; (Co-chair with Jeremy MG Taylor). Associate
+ Professor, Department of Biostatistics, University of Michigan.
+ 
+3. Shi Li, (Ph.D. 2013) Statistician at Genentech, California.
+
+4. Yi-An Ko, (Ph.D. 2014), Research Associate Professor, Department of Biostatistics, Emory
+University.
+
+5.	Zhichao Sun, (Ph.D. 2016; Co-chair with Thomas Braun). Senior Biostatistician at Boehringer Ingelheim Pharmaceuticals, Connecticut.
+
+6.	Zihuai He, (Ph.D. 2016; Co-chair with Min Zhang). Research Assistant Professor, Neurology & Neurological Sciences, Research Assistant Professor, Medicine - Biomedical Informatics Research, Stanford University.
+
+7.	Yin-Hsiu Chen, (Ph.D, 2017). Quantitative/Data Analyst, Google Inc, California.
+
+8.	Wenting Cheng, (Ph.D, 2017; Co-chair with Jeremy MG Taylor). Statistician, Biogen Inc, Boston, Massachusetts.
+
+9.	Yanyi Song, (Ph.D, 2020; Co-chair with Xiang Zhou). Data Scientist at Facebook/Meta.
+
+10.	Zhongsheng Chen, (Ph.D 2020; Co-chair with Michael L Boehnke). Senior Biostatistician II, Vertex, Boston, Massachusetts.
+
+11.	Zhangchen Zhao, (Ph.D, 2021; Co-chair with Shawn Lee). Statistician, Eli Lilly & Co.
+
+12.	Tian Gu, (Ph.D., 2021; Co-chair with Jeremy MG Taylor). Assistant Professor in Biostatistics, Columbia University, Mailman School of Public Health.
+
+13.	Youfei Yu, (Ph.D., 2021; Co-chair with Min Zhang). Biostatistics Manager, Amgen Inc.
+
+14.	Yongwen Zhuang, (Ph.D, 2022; Co-chair with Shawn Lee). Biostatistician, Illumina Inc.
+
+15.	Jonathan Boss, (Ph.D, 2023; Co-chair with Jian Kang). Biostatistician, Eli Lilly & Co.
+
+16.	Maxwell Salvatore, (Ph.D, 2024; Co-chair with Leigh Pearce). Post-doctoral fellow, Division of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania School of Medicine.
+
+17.	Jiacong Du, (Co-chair with Xu Shi).
+
+18.	Ritoban Kundu, (Co-chair with Peter Song).
+
+19.	Youqi Yang, (Co-chair with Walter Dempsey).
+
+
+
+## Post Doctoral Fellows
+
+### University of Michigan: 2006-
+
+1. Jason P Estes (PhD in Biostatistics, UCLA), 2016-2017. Statistician at Google Inc.
+
+2. Lauren Beesley (PhD in Biostatistics, University of Michigan), 2018-2021. Feynman Distinguished
+Postdoctoral Fellow (2021-2023); Staff Scientist/Statistician (2023-) Analytics, Intelligence and
+Technology Division: Information Systems and Modeling, Los Alamos National Laboratory.
+
+3. Max Aung (PhD in Environmental Health Sciences, University of Michigan), 2019-2020. Assistant
+Professor, University of Southern California, KECC School of Medicine.
+ 

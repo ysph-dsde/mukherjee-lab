@@ -10,6 +10,16 @@ listing:
       path: https://cran.r-project.org/web/packages/SAMBA/index.html
       description: "R package for Selection and Misclassification Bias Adjustment for Logistic Regression Models."
       categories: [R Package]
+    - title: "PRSweb"
+      author: ["Snehal Patil"]
+      path: https://prsweb.sph.umich.edu:8443/
+      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
+      categories: [Shiny Web Application] 
+    - title: "PRSweb"
+      author: ["Snehal Patil"]
+      path: https://prsweb.sph.umich.edu:8443/
+      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
+      categories: [Shiny Web Application] 
     - title: "LGEWIS"
       author: ["Zihuai He", "Seunggeun Lee", "Bhramar Mukherjee", "Min Zhang"]
       path: https://cran.r-project.org/web/packages/LGEWIS/index.html
