@@ -6,7 +6,7 @@ filters:
 
 ## Bhramar Mukherjee, PhD
 
-![](images/headshots/bhramar-mukherjee.png){width=300}
+![](images/headshots-people/bhramar-mukherjee.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/bhramar-mukherjee/) [{{< fa envelope size=lg >}}](mailto:bhramar.mukherjee@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/bhramar-mukherjee.pdf) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=-zwWIG4AAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/BhramarBioStat) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/bhramar-mukherjee-483810320/)       
@@ -15,7 +15,7 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 
 ## Alicia E. Boyd, PhD
 
-![](images/headshots/alicia-boyd.png){width=300}
+![](images/headshots-people/alicia-boyd.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/alicia-boyd/) [{{< fa envelope size=lg >}}](mailto:alicia.boyd@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/alicia-boyd.pdf) [{{< fa user size=lg >}}](https://www.aliciaeboyd.com/) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=lvzbG6AAAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/Stippy_eep_eep) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/boydae23/)
 
@@ -25,7 +25,7 @@ Dr. Boyd is a social-technical researcher guided by wisdom, patience, and though
 
 ## Howard Baik, M.S.
 
-![](images/headshots/howard-baik.png){width=300}
+![](images/headshots-people/howard-baik.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/howard-baik/) [{{< fa envelope size=lg >}}](mailto:howard.baik@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/howard-baik.pdf) [{{< fa user size=lg >}}](https://www.howardbaik.com/) [{{< fa brands github size=lg >}}](https://github.com/howardbaik) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/howard-baik/)
 
@@ -35,7 +35,7 @@ Currently, he is a Data Scientist I at Yale School of Public Health, where he de
 
 ## Shelby Golden, M.S.
 
-![](images/headshots/shelby-golden.png){width=300}
+![](images/headshots-people/shelby-golden.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/shelby-golden/) [{{< fa envelope size=lg >}}](mailto:shelby.golden@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/shelby-golden.pdf) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/shelby-golden/)
 
@@ -45,7 +45,7 @@ At the Data Science and Data Equity Initiative, Shelby is responsible for managi
 
 ## Sohani Sirdeshmukh, M.A.
 
-![](images/headshots/sohani-sirdeshmukh.png){width=300}
+![](images/headshots-people/sohani-sirdeshmukh.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/sohani-sirdeshmukh/) [{{< fa envelope size=lg >}}](mailto:sohani.sirdeshmukh@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/sohani-sirdeshmukh.pdf) [{{< fa user size=lg >}}](https://www.ssohani.com/) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sohanis/)
 
@@ -56,7 +56,7 @@ Sohani has successfully led initiatives across diverse sectors. With over a deca
 
 ## Jiacong Du
 
-![](images/headshots/jiacong-du.png){width=300}
+![](images/headshots-people/jiacong-du.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) [{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)  [{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)  [{{< fa brands github size=lg >}}](https://github.com/jiacongD) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jiacong-du/)
 
@@ -65,7 +65,7 @@ I am currently a fifth-year PhD candidate in Biostatistics at the University of 
 
 ## Ritoban Kundu
 
-![](images/headshots/ritoban-kundu.png){width=300}
+![](images/headshots-people/ritoban-kundu.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/ritoban-kundu.pdf) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/) 
 
@@ -75,7 +75,7 @@ I am currently a fourth-year Ph.D. student in the Department of Biostatistics at
 
 ## Yi-Ting Lin
 
-![](images/headshots/yi-ting-lin.png){width=300}
+![](images/headshots-people/yi-ting-lin.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/yi-ting-lin.pdf)  [{{< fa brands github size=lg >}}](https://github.com/asus50901) 
 
@@ -84,7 +84,7 @@ I am a second-year PhD student in the Department of Biostatistics at the Univers
 
 ## Lillian Rountree
 
-![](images/headshots/lillian-rountree.png){width=300}
+![](images/headshots-people/lillian-rountree.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg >}}](mailto:ilex@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/lillian-rountree.pdf) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/lillian-r-655456217/)   
 
@@ -94,7 +94,7 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 
 ## Youqi Yang
 
-![](images/headshots/youqi-yang.png){width=300}
+![](images/headshots-people/youqi-yang.png){width=300}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/youqi-yang.pdf)  [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)   
 
