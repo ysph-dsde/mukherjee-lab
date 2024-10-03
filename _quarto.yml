@@ -10,8 +10,6 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
       - text: People
         href: people.qmd
       - text: Alumnae
@@ -21,10 +19,9 @@ website:
       - text: Research
         href: research.qmd
       - text: Education and Outreach
-        href: education-outreach
+        href: education-outreach.qmd
       - text: Public Health DSDE at Yale
-        href: https://www.google.com/
-        target: _blank
+        href: dsde.qmd
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search

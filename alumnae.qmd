@@ -1,117 +1,557 @@
 ---
 title: "Alumnae"
+filters:
+  - newpagelink.lua
 ---
 
 ## Doctoral Students
 
 ### University of Florida: 2002-2006
 
-1. Samiran Sinha, (Ph.D. 2004; Co-chair with Malay Ghosh) Professor, Department of Statistics, Texas A & M University.
 
-https://scholars.library.tamu.edu/vivo/display/nf7f32f6f/Persons/View%20All
+### Samiran Sinha
 
-2. Li Zhang, (Ph.D. 2006; Co-chair with Malay Ghosh) Professor, Division of Hematology and
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/samiran-sinha.png" />
+
+[Academic Homepage](https://scholars.library.tamu.edu/vivo/display/nf7f32f6f/Persons/View%20All)
+:::
+
+(Ph.D. 2004; Co-chair with Malay Ghosh) Professor, Department of Statistics, Texas A & M University.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
+### Li Zhang
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/li-zhang.png" />
+
+[Academic Homepage](https://profiles.ucsf.edu/li.zhang)
+:::
+
+
+(Ph.D. 2006; Co-chair with Malay Ghosh) Professor, Division of Hematology and
 Medical Oncology Department of Medicine UCSF Helen Diller Family Comprehensive Cancer
 Center and Department of Epidemiology and Biostatistics University of California, San
 Francisco.
 
-https://profiles.ucsf.edu/li.zhang
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-3. Upasana Santra, (Ph.D. 2007; Co-chair with Malay Ghosh), Lecturer, Valencia Community
+---
+
+
+### Upasana Santra
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/upasana-santra.png" />
+
+[Academic Homepage](https://frontdoor.valenciacollege.edu/faculty.cfm?uid=usantra)
+:::
+
+
+(Ph.D. 2007; Co-chair with Malay Ghosh), Lecturer, Valencia Community
 College, Florida. 
 
-https://frontdoor.valenciacollege.edu/faculty.cfm?uid=usantra
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### University of Michigan: 2006-
 
-1. Jaeil Ahn, (Ph.D. 2011; Co-chair with Timothy Johnson), Associate Professor, Georgetown
+
+### Jaeil Ahn
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/jaeil-ahn.png" />
+
+[Academic Homepage](https://gufaculty360.georgetown.edu/s/contact/00336000014TT9nAAG/jaeil-ahn)
+:::
+
+
+Jaeil Ahn, (Ph.D. 2011; Co-chair with Timothy Johnson), Associate Professor, Georgetown
 University, Division of Biostatistics and Bioinformatics.
 
-https://gufaculty360.georgetown.edu/s/contact/00336000014TT9nAAG/jaeil-ahn
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-2. Philip Simon Boonstra, (Ph.D. 2012; (Co-chair with Jeremy MG Taylor). Associate
- Professor, Department of Biostatistics, University of Michigan.
+---
+
+
+### Philip Simon Boonstra
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/philip-simon-boonstra.png" />
+
+[Academic Homepage](https://public.websites.umich.edu/~philb/education.html)
+:::
+
+(Ph.D. 2012; (Co-chair with Jeremy MG Taylor). Associate Professor, Department of Biostatistics, University of Michigan.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
+### Shi Li
+
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/shi-li.png" />
+
+[LinkedIn](https://www.linkedin.com/in/shi-li-1847bb50/)
+:::
  
- https://public.websites.umich.edu/~philb/education.html
- 
-3. Shi Li, (Ph.D. 2013) Statistician at Genentech, California.
-
-https://www.linkedin.com/in/shi-li-1847bb50/
-
-4. Yi-An Ko, (Ph.D. 2014), Research Associate Professor, Department of Biostatistics, Emory
-University.
-
-https://sph.emory.edu/faculty/profile/index.php?FID=yi-an-ko-8701
+(Ph.D. 2013) Statistician at Genentech, California.
 
 
-5.	Zhichao Sun, (Ph.D. 2016; Co-chair with Thomas Braun). Senior Biostatistician at Boehringer Ingelheim Pharmaceuticals, Connecticut.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-https://www.linkedin.com/in/zhichao-sun-ab9a3690/
 
-6.	Zihuai He, (Ph.D. 2016; Co-chair with Min Zhang). Research Assistant Professor, Neurology & Neurological Sciences, Research Assistant Professor, Medicine - Biomedical Informatics Research, Stanford University.
-
-https://profiles.stanford.edu/zihuai-he
-
-7.	Yin-Hsiu Chen, (Ph.D, 2017). Quantitative/Data Analyst, Google Inc, California.
-
-https://www.linkedin.com/in/yin-hsiu-aaron-chen-36a15129/
+---
 
 
-8.	Wenting Cheng, (Ph.D, 2017; Co-chair with Jeremy MG Taylor). Statistician, Biogen Inc, Boston, Massachusetts.
+### Yi-An Ko
 
-https://www.linkedin.com/in/wenting-cheng-57873224/
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/yi-an-ko.png" />
 
-9.	Yanyi Song, (Ph.D, 2020; Co-chair with Xiang Zhou). Data Scientist at Facebook/Meta.
+[Academic Homepage](https://sph.emory.edu/faculty/profile/index.php?FID=yi-an-ko-8701)
+:::
 
-https://www.linkedin.com/in/yanyi-song-555b087b/
+(Ph.D. 2014) Research Associate Professor, Department of Biostatistics, Emory University.
 
-10.	Zhongsheng Chen, (Ph.D 2020; Co-chair with Michael L Boehnke). Senior Biostatistician II, Vertex, Boston, Massachusetts.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-11.	Zhangchen Zhao, (Ph.D, 2021; Co-chair with Shawn Lee). Statistician, Eli Lilly & Co.
+---
 
-https://www.linkedin.com/in/zhangchen-zhao-a93a4885/
 
-12.	Tian Gu, (Ph.D., 2021; Co-chair with Jeremy MG Taylor). Assistant Professor in Biostatistics, Columbia University, Mailman School of Public Health.
+### Zhichao Sun
 
-https://www.publichealth.columbia.edu/profile/tian-gu-phd
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/zhichao-sun.png" />
 
-13.	Youfei Yu, (Ph.D., 2021; Co-chair with Min Zhang). Biostatistics Manager, Amgen Inc.
+[LinkedIn](https://www.linkedin.com/in/zhichao-sun-ab9a3690/)
+:::
 
-https://www.linkedin.com/in/youfei-yu-a6ba9b3b/
+(Ph.D. 2016; Co-chair with Thomas Braun) Senior Biostatistician at Boehringer Ingelheim Pharmaceuticals, Connecticut.
 
-14.	Yongwen Zhuang, (Ph.D, 2022; Co-chair with Shawn Lee). Biostatistician, Illumina Inc.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-https://www.linkedin.com/in/yongwen-zhuang/
+---
 
-15.	Jonathan Boss, (Ph.D, 2023; Co-chair with Jian Kang). Biostatistician, Eli Lilly & Co.
+### Zihuai He
 
-https://www.linkedin.com/in/jonathan-boss-75768377/
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/zihuai-he.png" />
 
-16.	Maxwell Salvatore, (Ph.D, 2024; Co-chair with Leigh Pearce). Post-doctoral fellow, Division of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania School of Medicine.
+[Academic Homepage](https://profiles.stanford.edu/zihuai-he)
+:::
 
-https://ritchielab.org/people/post-doctral-fellow/max-salvatore
+(Ph.D. 2016; Co-chair with Min Zhang) Research Assistant Professor, Neurology & Neurological Sciences, Research Assistant Professor, Medicine - Biomedical Informatics Research, Stanford University.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Yin-Hsiu Chen
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/yin-hsiu-chen.png" />
+
+[LinkedIn](https://www.linkedin.com/in/yin-hsiu-aaron-chen-36a15129/)
+:::
+
+(Ph.D. 2017) Quantitative/Data Analyst, Google Inc., California.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Wenting Cheng
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/wenting-cheng.png" />
+
+[LinkedIn](https://www.linkedin.com/in/wenting-cheng-57873224/)
+:::
+
+(Ph.D. 2017; Co-chair with Jeremy MG Taylor) Statistician, Biogen Inc., Boston, Massachusetts.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+---
+
+### Yanyi Song
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/yanyi-song.png" />
+
+[LinkedIn](https://www.linkedin.com/in/yanyi-song-555b087b/)
+:::
+
+(Ph.D. 2020; Co-chair with Xiang Zhou) Data Scientist at Facebook/Meta.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+---
+
+### Zhongsheng Chen
+
+
+(Ph.D. 2020; Co-chair with Michael L Boehnke) Senior Biostatistician II, Vertex, Boston, Massachusetts.
+
+---
+
+### Zhangchen Zhao
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/zhangchen-zhao.png" />
+
+[LinkedIn](https://www.linkedin.com/in/zhangchen-zhao-a93a4885/)
+:::
+
+(Ph.D. 2021; Co-chair with Shawn Lee) Statistician, Eli Lilly & Co.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Tian Gu
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/tian-gu.png" />
+
+[Academic Homepage](https://www.publichealth.columbia.edu/profile/tian-gu-phd)
+:::
+
+(Ph.D. 2021; Co-chair with Jeremy MG Taylor) Assistant Professor in Biostatistics, Columbia University, Mailman School of Public Health.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Youfei Yu
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/youfei-yu.png" />
+
+[LinkedIn](https://www.linkedin.com/in/youfei-yu-a6ba9b3b/)
+:::
+
+(Ph.D. 2021; Co-chair with Min Zhang) Biostatistics Manager, Amgen Inc.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Yongwen Zhuang
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/yongwen-zhuang.png" />
+
+[LinkedIn](https://www.linkedin.com/in/yongwen-zhuang/)
+:::
+
+(Ph.D. 2022; Co-chair with Shawn Lee) Biostatistician, Illumina Inc.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Jonathan Boss
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/jonathan-boss.png" />
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-boss-75768377/)
+:::
+
+(Ph.D. 2023; Co-chair with Jian Kang) Biostatistician, Eli Lilly & Co.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Maxwell Salvatore
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/max-salvatore.png" />
+
+[Academic Homepage](https://ritchielab.org/people/post-doctral-fellow/max-salvatore)
+:::
+
+(Ph.D. 2024; Co-chair with Leigh Pearce) Post-doctoral fellow, Division of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania School of Medicine.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
 
 
 ## Post Doctoral Fellows
 
 ### University of Michigan: 2006-
 
-1. Jason P Estes (PhD in Biostatistics, UCLA), 2016-2017. Statistician at Google Inc.
+### Jason P Estes
 
-https://www.linkedin.com/in/jason-estes-phd-2b0408113/
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/jason-estes.png" />
 
-2. Lauren Beesley (PhD in Biostatistics, University of Michigan), 2018-2021. Feynman Distinguished
-Postdoctoral Fellow (2021-2023); Staff Scientist/Statistician (2023-) Analytics, Intelligence and
-Technology Division: Information Systems and Modeling, Los Alamos National Laboratory.
+[LinkedIn](https://www.linkedin.com/in/jason-estes-phd-2b0408113/)
+:::
 
-https://lbeesleybiostat.wordpress.com/
+(PhD in Biostatistics, UCLA), 2016-2017. Statistician at Google Inc.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-3. Max Aung (PhD in Environmental Health Sciences, University of Michigan), 2019-2020. Assistant
-Professor, University of Southern California, KECC School of Medicine.
+---
 
-https://keck.usc.edu/faculty-search/max-m-aung/
+### Lauren Beesley
 
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/lauren-beesley.png" />
 
- 
+[Academic Homepage](https://lbeesleybiostat.wordpress.com/)
+:::
+
+(PhD in Biostatistics, University of Michigan), 2018-2021. Feynman Distinguished Postdoctoral Fellow (2021-2023); Staff Scientist/Statistician (2023-) Analytics, Intelligence and Technology Division: Information Systems and Modeling, Los Alamos National Laboratory.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Max Aung
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/max-aung.png" />
+
+[Academic Homepage](https://keck.usc.edu/faculty-search/max-m-aung/)
+:::
+
+(PhD in Environmental Health Sciences, University of Michigan), 2019-2020. Assistant Professor, University of Southern California, KECC School of Medicine.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
