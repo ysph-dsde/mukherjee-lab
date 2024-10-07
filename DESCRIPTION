@@ -1,5 +1,5 @@
-Package: mukherjee-lab-website-password
-Title: Mukherjee Lab Website with Password
+Package: mukherjee-lab
+Title: Mukherjee Lab
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
@@ -12,7 +12,7 @@ Imports:
     markdown,
     glue,
     rentrez
-Description: Code for the Mukherjee Lab Website with Password
+Description: Code for the Mukherjee Lab
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
