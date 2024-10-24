@@ -43,8 +43,7 @@ listing:
     - title: "snif"
       author: ["Alexander Rix"]
       path: https://github.com/umich-cphds/snif
-      description: "R package for performing Selection of Nonlinear Interactions by a 
-                   Forward Stepwise Algorithm."
+      description: "R package for performing Selection of Nonlinear Interactions by a Forward Stepwise Algorithm."
       categories: [R Package]
     - title: "miselect"
       author: ["Michael Kleinsasser", "Alexander Rix", "Jiacong Du"]
@@ -68,7 +67,7 @@ listing:
       categories: [R Package]
     - title: "svycdiff"
       author: ["Stephen Salerno", "Emily K Roberts", "Tyler H McCormick", "Bhramar Mukherjee", "Xu Shi"]
-      path: https://cran.rstudio.com/web/packages/svycdiff/
+      path: x
       description: "R Package for Controlled Difference Estimation for Complex Surveys"
       categories: [R Package]
 ---
