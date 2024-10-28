@@ -1,9 +1,15 @@
 ---
 title: "Education and Outreach"
-editor: visual
+toc: false
+page-layout: full
 filters:
   - newpagelink.lua
 ---
+
+::: {.column-page-inset}
+![](images/banner-images/education-outreach.jpg)
+:::
+
 
 # [Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program](https://sph.umich.edu/bdsi/)
 

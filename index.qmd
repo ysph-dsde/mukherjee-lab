@@ -1,6 +1,12 @@
 ---
 title: "Mukherjee Lab"
+toc: false
+page-layout: full
 ---
+
+::: {.column-page-inset}
+![](images/banner-images/welcome.jpg)
+:::
 
 ## Mission
 

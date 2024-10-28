@@ -1,6 +1,7 @@
 ---
 title: "Software"
 page-layout: full
+toc: false
 listing:
   type: grid
   fields: [author, categories, title, description]
@@ -71,3 +72,10 @@ listing:
       description: "R Package for Controlled Difference Estimation for Complex Surveys"
       categories: [R Package]
 ---
+
+
+
+::: {.column-page-inset}
+![](images/banner-images/alumnae.jpg)
+:::
+

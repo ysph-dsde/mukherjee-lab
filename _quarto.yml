@@ -16,8 +16,8 @@ website:
         href: alumnae.qmd
       - text: Software
         href: software.qmd
-      - text: Research
-        href: research.qmd
+      - text: Publication and Preprints
+        href: publications-preprints.qmd
       - text: Education and Outreach
         href: education-outreach.qmd
       - text: Public Health DSDE at Yale

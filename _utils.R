@@ -73,5 +73,5 @@ markdown_to_html <- function(text) {
   if (is.null(text)) { return(text) }
   
   # Render the text as HTML
-  return(HTML(markdown::renderMarkdown(text = text)))
+  return(htmltools::HTML(markdown::renderMarkdown(text = text)))
 }

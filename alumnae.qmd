@@ -1,8 +1,15 @@
 ---
 title: "Alumnae"
+toc: false
+page-layout: full
 filters:
   - newpagelink.lua
 ---
+
+
+::: {.column-page-inset}
+![](images/banner-images/alumnae.jpg)
+:::
 
 ## Doctoral Students
 
