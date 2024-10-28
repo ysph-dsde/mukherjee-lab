@@ -1,13 +1,11 @@
 ---
 title: "Alumnae"
-toc: false
-page-layout: full
 filters:
   - newpagelink.lua
 ---
 
 
-::: {.column-page-inset}
+::: {.column-body}
 ![](images/banner-images/alumnae.jpg)
 :::
 

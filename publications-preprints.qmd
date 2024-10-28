@@ -1,7 +1,5 @@
 ---
 title: "Publications and Preprints"
-toc: false
-page-layout: full
 execute: 
   echo: false
   message: false
@@ -9,7 +7,7 @@ execute:
   cache: true
 ---
 
-::: {.column-page-inset}
+::: {.column-body}
 ![](images/banner-images/publications.jpg)
 :::
  

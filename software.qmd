@@ -1,7 +1,5 @@
 ---
 title: "Software"
-page-layout: full
-toc: false
 listing:
   type: grid
   fields: [author, categories, title, description]
@@ -75,7 +73,7 @@ listing:
 
 
 
-::: {.column-page-inset}
-![](images/banner-images/alumnae.jpg)
+::: {.column-body}
+![](images/banner-images/software.jpg)
 :::
 

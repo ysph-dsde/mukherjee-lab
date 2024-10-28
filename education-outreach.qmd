@@ -1,12 +1,10 @@
 ---
 title: "Education and Outreach"
-toc: false
-page-layout: full
 filters:
   - newpagelink.lua
 ---
 
-::: {.column-page-inset}
+::: {.column-body}
 ![](images/banner-images/education-outreach.jpg)
 :::
 

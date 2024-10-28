@@ -1,12 +1,10 @@
 ---
 title: "People"
-toc: false
-page-layout: full
 filters:
   - newpagelink.lua
 ---
 
-::: {.column-page-inset}
+::: {.column-body}
 ![](images/banner-images/people.jpg)
 :::
 
