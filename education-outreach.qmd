@@ -9,10 +9,32 @@ filters:
 :::
 
 
-# [Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program](https://sph.umich.edu/bdsi/)
+## [Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program](https://sph.umich.edu/bdsi/)
 
 The Big Data Summer Institute, a SIBS program, is an interdisciplinary training and research program in biostatistics that introduces undergraduate students to the intersection of big data and human health — a rapidly growing field that uses quantitative analysis to help solve scientific problems and improve people’s lives.
 
 Drawing from the expertise and experience of outstanding faculty of several departments at the University of Michigan — biostatistics, statistics, and electrical engineering and computer science — the institute exposes undergraduate students to diverse experiences and techniques that distinguishes it from any other undergraduate summer program in biostatistics in the country.
 
 This Summer Institute in Biostatistics (SIBS) program is sponsored by the National Heart, Lung, and Blood Institute (NHLBI), grant R25HL147207, with the intent to introduce undergrad students to the field of biostatistics. Courses will include data collected in studies of heart, lung, blood, and sleep disorders. To learn more about our sister programs, please visit the NHLBI SIBS program website.
+
+
+## Workshops
+
+Yale's Public Health Data Science and Data Equity (DSDE) team created a workshop series for Public Health and Biostatistics masters-level students at Yale. They are designed to help learners effectively leverage computational tools and analytical methods in their educational and professional endeavors. You can find out more about past and upcoming tutorials on our YouTube (link) and website (event page link).
+
+### Getting Started with Git and GitHub
+
+**Workshop Title:** &nbsp; Getting Started with Git and GitHub
+
+**Date:** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Monday November $4^{\text{th}}$, 2024
+
+We will be launching our Coffee, Cookie and Coding $\left(C^3\right)$ workshop series with a starter guide on Git and GitHub. Upon completing the workshop, you will be able to:
+
+- Identify the benefits of using Git and GitHub.
+- Configure your local Git and personal GitHub accounts and set up their security keys.
+- Share and contribute to projects with an example created in RStudio.
+
+You can find out more about past and upcoming tutorials on our YouTube (link) and website (event page link). If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists ([Bookings Page](https://outlook.office365.com/owa/calendar/DataScienceDataEquityOfficeHours@yale.edu/bookings/)).
+
+
+
