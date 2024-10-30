@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ::: {.column-page-inset}
-![](images/banner-images/ysph.jpg)
+![](images/banner-images/landing-page.jpg)
 :::
 
 ## Mission
