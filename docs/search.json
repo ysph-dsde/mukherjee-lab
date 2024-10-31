@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "dsde.html",
-    "href": "dsde.html",
-    "title": "Public Health DSDE at Yale",
-    "section": "",
-    "text": "Forthcoming."
-  },
-  {
     "objectID": "people.html#bhramar-mukherjee-phd",
     "href": "people.html#bhramar-mukherjee-phd",
     "title": "People",
@@ -98,18 +91,18 @@
     "text": "Post Doctoral Fellows\n\nUniversity of Michigan: 2006-\n\n\nJason P Estes\n\n\nLinkedIn\n\n(PhD in Biostatistics, UCLA), 2016-2017. Statistician at Google Inc.\n           \n\n\n\nLauren Beesley\n\n\nAcademic Homepage\n\n(PhD in Biostatistics, University of Michigan), 2018-2021. Feynman Distinguished Postdoctoral Fellow (2021-2023); Staff Scientist/Statistician (2023-) Analytics, Intelligence and Technology Division: Information Systems and Modeling, Los Alamos National Laboratory.\n         \n\n\n\nMax Aung\n\n\nAcademic Homepage\n\n(PhD in Environmental Health Sciences, University of Michigan), 2019-2020. Assistant Professor, University of Southern California, KECC School of Medicine."
   },
   {
-    "objectID": "index.html#mission",
-    "href": "index.html#mission",
-    "title": "Mukherjee Lab",
-    "section": "Mission",
-    "text": "Mission\nThe mission of the Mukherjee Lab is to democratize the use of big data to improve human health. Investigators affiliated with the Lab develop principled data science methods for inference and prediction with large, heterogeneous data sources often collected from databases not designed for population-based research. Our goal is to disseminate user-friendly analytic and visualization tools for health researchers aspiring to reduce disease and improve health for the population and the patient.\n\nWe believe in reproducibility and scientific rigor.\nWe believe in innovation.\nWe believe in inclusion.\nWe pursue impact."
-  },
-  {
     "objectID": "index.html#vision",
     "href": "index.html#vision",
     "title": "Mukherjee Lab",
     "section": "Vision",
     "text": "Vision\nThe Mukherjee Lab is the intellectual home to a group of scholars who believe in using diverse data sources and developing innovative statistical methodologies to optimize prevention, treatment, and care for communities everywhere."
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "Mukherjee Lab",
+    "section": "Mission",
+    "text": "Mission\nThe mission of the Mukherjee Lab is to democratize the use of big data to improve human health. Investigators affiliated with the Lab develop principled data science methods for inference and prediction with large, heterogeneous data sources often collected from databases not designed for population-based research. Our goal is to disseminate user-friendly analytic and visualization tools for health researchers aspiring to reduce disease and improve health for the population and the patient.\n\nWe believe in reproducibility and scientific rigor.\nWe believe in innovation.\nWe believe in inclusion.\nWe pursue impact."
   },
   {
     "objectID": "software.html",

@@ -5,8 +5,12 @@ page-layout: full
 ---
 
 ::: {.column-page-inset}
-![](images/banner-images/landing-page.jpg)
+![](images/banner-images/landing-page.png)
 :::
+
+## Vision 
+
+The Mukherjee Lab is the intellectual home to a group of scholars who believe in using diverse data sources and developing innovative statistical methodologies to optimize prevention, treatment, and care for communities everywhere.
 
 ## Mission
 
@@ -17,7 +21,3 @@ The mission of the Mukherjee Lab is to democratize the use of big data to improv
 - We believe in inclusion. 
 - We pursue impact. 
 
-
-## Vision 
-
-The Mukherjee Lab is the intellectual home to a group of scholars who believe in using diverse data sources and developing innovative statistical methodologies to optimize prevention, treatment, and care for communities everywhere.

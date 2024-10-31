@@ -131,7 +131,7 @@ University, Division of Biostatistics and Bioinformatics.
 ::: {style="float: left; margin-right: 20px;"}
 <img width="300" src="images/headshots-alumnae/philip-simon-boonstra.png" />
 
-[Academic Homepage](https://public.websites.umich.edu/~philb/education.html)
+[Academic Homepage](https://sph.umich.edu/faculty-profiles/boonstra-philip.html)
 :::
 
 (Ph.D. 2012; (Co-chair with Jeremy MG Taylor). Associate Professor, Department of Biostatistics, University of Michigan.

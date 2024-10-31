@@ -21,7 +21,8 @@ website:
       - text: Education and Outreach
         href: education-outreach.qmd
       - text: Public Health DSDE at Yale
-        href: dsde.qmd
+        href: https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/
+        target: _blank
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search
