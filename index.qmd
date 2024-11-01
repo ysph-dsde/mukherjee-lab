@@ -4,8 +4,14 @@ toc: false
 page-layout: full
 ---
 
-::: {.column-page-inset}
-![](images/banner-images/landing-page.png)
+<br>
+
+::: {layout-ncol=3}
+![](images/banner-images/landing-page-1.jpeg)
+
+![](images/banner-images/landing-page-2.jpeg)
+
+![](images/banner-images/landing-page-3.jpeg)
 :::
 
 ## Vision 
