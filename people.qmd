@@ -45,6 +45,25 @@ Dr. Boyd is a social-technical researcher guided by wisdom, patience, and though
 <br>
 
 
+
+
+## Yiran Wang, PhD
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/yiran-wang.png" />
+:::
+
+
+[{{< fa house size=lg >}}](https://medicine.yale.edu/profile/yiran-wang-yw995/) [{{< fa envelope size=lg >}}](mailto:yiran.wang.yw995@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/yiran-wang.pdf) [{{< fa user size=lg >}}](https://sites.google.com/view/yiranwangstat/) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/YiranWangStat) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/harryyiranwang/)
+
+Yiran Wang is a postdoctoral associate in the Department of Biostatistics at Yale School of Public Health. He holds a Ph.D. in Statistics from the University of Waterloo, a Master of Science in Statistics from the University of California, Irvine, and a Bachelor of Science in Statistics from Donghua University. Yiran’s research centers on mediation analysis and data equity.
+
+Beyond his academic work, Yiran enjoys music, movies, exploring new cuisines, and traveling around the world. His two-year-old British Shorthair cat, Lemon, currently resides with his girlfriend in Toronto, where Yiran has also volunteered with two cat rescue organizations.
+
+
+<br>
+
+
 ## Howard Baik, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
