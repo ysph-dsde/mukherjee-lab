@@ -4,15 +4,15 @@ toc: false
 page-layout: full
 ---
 
-<br>
-
-::: {layout-ncol=3}
-![](images/banner-images/landing-page-1.jpeg)
+::: {layout-ncol=3 layout-valign="center"}
+![](images/banner-images/landing-page-1.jpg)
 
 ![](images/banner-images/landing-page-2.jpeg)
 
 ![](images/banner-images/landing-page-3.jpeg)
 :::
+
+Salvatore M, Kundu R, Shi X, Friese CR, Lee S, Fritsche LG, Mondul AM, Hanauer D, Pearce CL, Mukherjee B. To weight or not to weight? The effect of selection bias in 3 large electronic health record-linked biobanks and recommendations for practice. J Am Med Inform Assoc. 2024 Jun 20;31(7):1479-1492. doi: 10.1093/jamia/ocae098. PMID: 38742457; PMCID: PMC11187425.
 
 ## Vision 
 
