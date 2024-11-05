@@ -4,13 +4,12 @@ execute:
   echo: false
   message: false
   warning: false
-  cache: true
 ---
 
 ::: {.column-body}
 ![](images/banner-images/publications-preprints.jpg)
 :::
- 
+
 ```{r setup}
 library(htmltools)
 library(markdown)
@@ -19,16 +18,16 @@ library(rentrez)
 
 get_citations <- function() {
   # Initial search for Bhramar Mukherjee
-  initial_search <- entrez_search("pubmed",
-                                  "Bhramar Mukherjee", 
-                                  retmax = 1000,
-                                  use_history = TRUE) # return web_history for use in later calls
+  initial_search <- entrez_search(
+    "pubmed",
+    "Bhramar Mukherjee", 
+    retmax = 1000,
+    use_history = TRUE) # return web_history for use in later calls
   
   # Grab PMID
   pmids <- initial_search$ids
   # Find summary
-  pmid_summary <- entrez_summary(db = "pubmed", 
-                                 web_history = initial_search$web_history)
+  pmid_summary <- entrez_summary(db = "pubmed", web_history = initial_search$web_history)
   
   # Final result
   citations <- vector("character", length(pmid_summary))
@@ -96,7 +95,7 @@ markdown_to_html <- function(text) {
 citations <- get_citations()
 ```
 
- 
+
 ## Publications
 
 `r make_pub_list(citations)`
