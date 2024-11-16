@@ -28,25 +28,6 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 <br>
 
 
-## Alicia E. Boyd, PhD
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/alicia-boyd.png" />
-:::
-
-
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/alicia-boyd/) [{{< fa envelope size=lg >}}](mailto:alicia.boyd@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/alicia-boyd.pdf) [{{< fa user size=lg >}}](https://www.aliciaeboyd.com/) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=lvzbG6AAAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/Stippy_eep_eep) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/boydae23/)
-
-Alicia Boyd, PhD, is an Associate Research Scientist in the Department of Biostatistics at Yale School of Public Health. She received her PhD in Computer Science from DePaul University in Chicago, Illinois, and completed her postdoctoral fellowship at New York University. She is an affiliate researcher with the Interdisciplinary Software Practice Improvement Research and Development (or INSPIRED) Lab at George Mason University and Gadiraju Lab at Wellesley College.
-
-Dr. Boyd is a social-technical researcher guided by wisdom, patience, and thoughtfulness. Her research is at the intersection of technology, privacy, and reflexivity, which aims to implement reflexive practices in quantitative areas such as software development, large language models, data science, and machine learning. Some of her recent and ongoing projects include the investigation of improving disability representation in generative artificial intelligence models and how to incorporate reflexive practices in gig work design. Within the Data Science Data Equity (DSDE) Initiative, Dr. Boyd hopes to develop a reflexive praxis for technical applications.
-
-
-<br>
-
-
-
-
 ## Yiran Wang, PhD
 
 ::: {style="float: left; margin-right: 20px;"}
