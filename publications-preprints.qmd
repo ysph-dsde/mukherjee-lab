@@ -108,3 +108,9 @@ citations <- get_citations()
 2. Kundu R, Shi X, Salvatore M, Fritsche LG, Mukherjee B. A Doubly Robust Method to Counteract Outcome-Dependent Selection Bias in Multi-Cohort EHR Studies. arXiv preprint [arXiv:2412.00228v1](https://arxiv.org/abs/2412.00228) [stat.ME]. 2024 Nov 29.
 
 3. Salerno S, Roberts EK, Needham BL, McCormick TH, Mukherjee B, Shi X. What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv preprint [arXiv:2406.19597v1](https://arxiv.org/abs/2406.19597) [stat.ME]. 2024 Jun 28.
+
+4. Chen X, Wu Z, Shi X, Cho H, Mukherjee B. Generating Synthetic Electronic Health Record (EHR) Data: A Review with Benchmarking. arXiv preprint [arXiv:2411.04281v1](https://arxiv.org/abs/2411.04281) [cs.LG]. 2024 Nov 6.
+
+5. Statistical methods for chemical mixtures: a roadmap for practitioners
+Wei Hao, Amber L. Cathey, Max M. Aung, Jonathan Boss, John D. Meeker, Bhramar Mukherjee
+[medRxiv 2024.03.03.24303677](https://www.medrxiv.org/content/10.1101/2024.03.03.24303677v1.full); doi: https://doi.org/10.1101/2024.03.03.24303677

@@ -9,6 +9,11 @@ listing:
       path: https://cran.r-project.org/web/packages/bama/index.html
       description: "R package for High Dimensional Bayesian Mediation Analysis"
       categories: [R Package]
+    - title: "CompMix"
+      author: ["Wei Hao"]
+      path: https://cran.r-project.org/web/packages/CompMix/index.html
+      description: "R package for Environmental Mixtures Analysis"
+      categories: [R Package]
     - title: "CIMPLE"
       author: ["Jiacong Du", "Howard Baik"]
       path: https://cran.r-project.org/web/packages/CIMPLE/index.html
@@ -74,6 +79,11 @@ listing:
       path: https://github.com/umich-biostatistics/SynDI
       description: "R Package for integrating external model information into the current regression modeling"
       categories: [R Package]
+    - title: "synthEHRella"
+      author: ["Xingran Chen"]
+      path: https://github.com/chenxran/synthEHRella
+      description: "Python package for synthetic Electronic Health Records (EHR) data generation benchmarking."
+      categories: [Python Package]
     - title: "svycdiff"
       author: ["Stephen Salerno", "Emily K Roberts", "Tyler H McCormick", "Bhramar Mukherjee", "Xu Shi"]
       path: x
