@@ -99,3 +99,12 @@ citations <- get_citations()
 ## Publications
 
 `r make_pub_list(citations)`
+
+
+## Preprints
+
+1. Du J, Shi X, Mukherjee B. Analyzing Longitudinal Electronic Health Records Data with Clinically Informative Visiting Process: Possible Choices and Comparisons. arXiv preprint arXiv:2410.13113v1 [stat.ME]. 2024 Oct 17.
+
+2. Kundu R, Shi X, Salvatore M, Fritsche LG, Mukherjee B. A Doubly Robust Method to Counteract Outcome-Dependent Selection Bias in Multi-Cohort EHR Studies. arXiv preprint arXiv:2412.00228v1 [stat.ME]. 2024 Nov 29.
+
+3. Salerno S, Roberts EK, Needham BL, McCormick TH, Mukherjee B, Shi X. What’s the Weight? Estimating Controlled Outcome Differences in Complex Surveys for Health Disparities Research. arXiv preprint arXiv:2406.19597v1 [stat.ME]. 2024 Jun 28.

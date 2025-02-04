@@ -4,71 +4,82 @@ listing:
   type: grid
   fields: [author, categories, title, description]
   contents:
-    - title: "SAMBA"
-      author: ["Alexander Rix", "Lauren Beesley"]
-      path: https://cran.r-project.org/web/packages/SAMBA/index.html
-      description: "R package for Selection and Misclassification Bias Adjustment for Logistic Regression Models."
-      categories: [R Package]
-    - title: "PRSweb"
-      author: ["Snehal Patil"]
-      path: https://prsweb.sph.umich.edu:8443/
-      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
-      categories: [Shiny Web Application] 
-    - title: "PRSweb"
-      author: ["Snehal Patil"]
-      path: https://prsweb.sph.umich.edu:8443/
-      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
-      categories: [Shiny Web Application] 
-    - title: "LGEWIS"
-      author: ["Zihuai He", "Seunggeun Lee", "Bhramar Mukherjee", "Min Zhang"]
-      path: https://cran.r-project.org/web/packages/LGEWIS/index.html
-      description: "R package for Tests for Genetic Association/Gene-Environment Interaction in Longitudinal Studies."
-      categories: [R Package]
-    - title: "subgxe"
-      author: ["Youfei Yu", "Alexander Rix"]
-      path: https://cran.r-project.org/web/packages/subgxe/index.html
-      description: "R package for performing p-value assisted subset testing for association."
-      categories: [R Package]
-    - title: "lodi"
-      author: ["Jonathan Boss", "Alexander Rix"]
-      path: https://cran.r-project.org/web/packages/lodi/index.html
-      description: "R package for imputing observed values below the limit of detection in single-pollutant models via censored likelihood multiple imputation."
-      categories: [R Package]
     - title: "bama"
       author: ["Alexander Rix", "Mike Kleinsasser", "Yanyi Song"]
       path: https://cran.r-project.org/web/packages/bama/index.html
       description: "R package for High Dimensional Bayesian Mediation Analysis"
       categories: [R Package]
-    - title: "snif"
-      author: ["Alexander Rix"]
-      path: https://github.com/umich-cphds/snif
-      description: "R package for performing Selection of Nonlinear Interactions by a Forward Stepwise Algorithm."
+    - title: "CIMPLE"
+      author: ["Jiacong Du", "Howard Baik"]
+      path: https://cran.r-project.org/web/packages/CIMPLE/index.html
+      description: "R package for Analysis of Longitudinal Electronic Health Record (EHR) Data with Possibly Informative Observational Time."
       categories: [R Package]
-    - title: "miselect"
-      author: ["Michael Kleinsasser", "Alexander Rix", "Jiacong Du"]
-      path: https://cran.r-project.org/web/packages/miselect/index.html
-      description: "R package for performing variable selection for multiply imputed data."
-      categories: [R Package]
-    - title: "SynDi"
-      author: ["Michael Kleinsasser"]
-      path: https://github.com/umich-biostatistics/SynDI
-      description: "R Package for integrating external model information into the current regression modeling"
-      categories: [R Package]
-    - title: "medScan"
-      author: ["Jiacong Du", "Michael Kleinsasser"]
-      path: https://cran.r-project.org/web/packages/medScan/index.html
-      description: "R Package for Large Scale Single Mediator Hypothesis Testing"
+    - title: "EHRmuse"
+      author: ["Ritoban Kundu", "Michael Kleinsasser"]
+      path: https://cran.r-project.org/web/packages/EHRmuse/index.html
+      description: "Multi-Cohort Selection Bias Correction using IPW and AIPW Methods."
       categories: [R Package]
     - title: "hdmed"
       author: ["Dylan Clark-Boucher", "Michael Kleinsasser"]
       path: https://cran.r-project.org/web/packages/hdmed/index.html
       description: "R Package for Methods for Mediation Analysis with High-Dimensional Mediators"
       categories: [R Package]
+    - title: "LGEWIS"
+      author: ["Zihuai He", "Seunggeun Lee", "Bhramar Mukherjee", "Min Zhang"]
+      path: https://cran.r-project.org/web/packages/LGEWIS/index.html
+      description: "R package for Tests for Genetic Association/Gene-Environment Interaction in Longitudinal Studies."
+      categories: [R Package]
+    - title: "lodi"
+      author: ["Jonathan Boss", "Alexander Rix"]
+      path: https://cran.r-project.org/web/packages/lodi/index.html
+      description: "R package for imputing observed values below the limit of detection in single-pollutant models via censored likelihood multiple imputation."
+      categories: [R Package]
+    - title: "medScan"
+      author: ["Jiacong Du", "Michael Kleinsasser"]
+      path: https://cran.r-project.org/web/packages/medScan/index.html
+      description: "R Package for Large Scale Single Mediator Hypothesis Testing"
+      categories: [R Package]
+    - title: "miselect"
+      author: ["Michael Kleinsasser", "Alexander Rix", "Jiacong Du"]
+      path: https://cran.r-project.org/web/packages/miselect/index.html
+      description: "R package for performing variable selection for multiply imputed data."
+      categories: [R Package]
+    - title: "PRSweb"
+      author: ["Snehal Patil"]
+      path: https://prsweb.sph.umich.edu:8443/
+      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
+      categories: [Shiny Web Application] 
+    - title: "PRSweb"
+      author: ["Snehal Patil"]
+      path: https://prsweb.sph.umich.edu:8443/
+      description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
+      categories: [Shiny Web Application] 
+    - title: "SAMBA"
+      author: ["Alexander Rix", "Lauren Beesley"]
+      path: https://cran.r-project.org/web/packages/SAMBA/index.html
+      description: "R package for Selection and Misclassification Bias Adjustment for Logistic Regression Models."
+      categories: [R Package]
+    - title: "snif"
+      author: ["Alexander Rix"]
+      path: https://github.com/umich-cphds/snif
+      description: "R package for performing Selection of Nonlinear Interactions by a Forward Stepwise Algorithm."
+      categories: [R Package]
+    - title: "subgxe"
+      author: ["Youfei Yu", "Alexander Rix"]
+      path: https://cran.r-project.org/web/packages/subgxe/index.html
+      description: "R package for performing p-value assisted subset testing for association."
+      categories: [R Package]
+    - title: "SynDi"
+      author: ["Michael Kleinsasser"]
+      path: https://github.com/umich-biostatistics/SynDI
+      description: "R Package for integrating external model information into the current regression modeling"
+      categories: [R Package]
     - title: "svycdiff"
       author: ["Stephen Salerno", "Emily K Roberts", "Tyler H McCormick", "Bhramar Mukherjee", "Xu Shi"]
       path: x
       description: "R Package for Controlled Difference Estimation for Complex Surveys"
       categories: [R Package]
+      
 ---
 
 
