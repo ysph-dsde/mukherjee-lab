@@ -45,24 +45,6 @@ Beyond his academic work, Yiran enjoys music, movies, exploring new cuisines, an
 <br>
 
 
-## Howard Baik, M.S.
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/howard-baik.png" />
-:::
-
-
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/howard-baik/) [{{< fa envelope size=lg >}}](mailto:howard.baik@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/howard-baik.pdf) [{{< fa user size=lg >}}](https://www.howardbaik.com/) [{{< fa brands github size=lg >}}](https://github.com/howardbaik) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/howard-baik/)
-
-Howard Baik is a Data Scientist with a background in biostatistics and computer science. He holds a Master of Science in Biostatistics, and a Bachelor of Science in Statistics with a minor in Mathematics, both from the University of Washington. He is working towards a Post-Baccalaureate Degree in Computer Science from Oregon State University.
-
-Currently, he is a Data Scientist I at Yale School of Public Health, where he develops and executes statistical models for analyzing EHR and biobank datasets, and creates software packages to enhance data analysis and accessibility.
-
-
-
-<br>
-
-
 ## Shelby Golden, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
