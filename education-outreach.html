@@ -67,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -162,10 +133,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program" id="toc-transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program" class="nav-link active" data-scroll-target="#transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program">Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program</a></li>
-  <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a>
-  <ul class="collapse">
-  <li><a href="#getting-started-with-git-and-github" id="toc-getting-started-with-git-and-github" class="nav-link" data-scroll-target="#getting-started-with-git-and-github">Getting Started with Git and GitHub</a></li>
-  </ul></li>
+  <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a></li>
   </ul>
 </nav>
     </div>
@@ -195,28 +163,18 @@ window.Quarto = {
 <p><img src="images/banner-images/education-outreach.jpg" class="img-fluid"></p>
 </div>
 <section id="transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program" class="level2">
-<h2 class="anchored" data-anchor-id="transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program"><a href="https://sph.umich.edu/bdsi/" target="_blank">Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program</a></h2>
+<h2 class="anchored" data-anchor-id="transforming-analytical-learning-in-the-era-of-big-data-a-summer-institute-in-biostatistics-sibs-program"><a href="https://ysph.yale.edu/school-of-public-health/special-programs/big-data-summer-immersion-at-yale/" target="_blank">Transforming Analytical Learning in the Era of Big Data: A Summer Institute in Biostatistics (SIBS) Program</a></h2>
 <p>The Big Data Summer Institute, a SIBS program, is an interdisciplinary training and research program in biostatistics that introduces undergraduate students to the intersection of big data and human health — a rapidly growing field that uses quantitative analysis to help solve scientific problems and improve people’s lives.</p>
 <p>Drawing from the expertise and experience of outstanding faculty of several departments at the University of Michigan — biostatistics, statistics, and electrical engineering and computer science — the institute exposes undergraduate students to diverse experiences and techniques that distinguishes it from any other undergraduate summer program in biostatistics in the country.</p>
 <p>This Summer Institute in Biostatistics (SIBS) program is sponsored by the National Heart, Lung, and Blood Institute (NHLBI), grant R25HL147207, with the intent to introduce undergrad students to the field of biostatistics. Courses will include data collected in studies of heart, lung, blood, and sleep disorders. To learn more about our sister programs, please visit the NHLBI SIBS program website.</p>
 </section>
 <section id="workshops" class="level2">
 <h2 class="anchored" data-anchor-id="workshops">Workshops</h2>
-<p>Yale’s Public Health Data Science and Data Equity (DSDE) team created a workshop series for Public Health and Biostatistics masters-level students at Yale. They are designed to help learners effectively leverage computational tools and analytical methods in their educational and professional endeavors. You can find out more about past and upcoming tutorials on our YouTube (link) and website (event page link).</p>
-<section id="getting-started-with-git-and-github" class="level3">
-<h3 class="anchored" data-anchor-id="getting-started-with-git-and-github">Getting Started with Git and GitHub</h3>
-<p><strong>Workshop Title:</strong> &nbsp; Getting Started with Git and GitHub</p>
-<p><strong>Date:</strong>      &nbsp; Monday November <span class="math inline">\(4^{\text{th}}\)</span>, 2024</p>
-<p>We will be launching our Coffee, Cookie and Coding <span class="math inline">\(\left(C^3\right)\)</span> workshop series with a starter guide on Git and GitHub. Upon completing the workshop, you will be able to:</p>
-<ul>
-<li>Identify the benefits of using Git and GitHub.</li>
-<li>Configure your local Git and personal GitHub accounts and set up their security keys.</li>
-<li>Share and contribute to projects with an example created in RStudio.</li>
-</ul>
-<p>You can find out more about past and upcoming tutorials on our YouTube (link) and website (event page link). If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists (<a href="https://outlook.office365.com/owa/calendar/DataScienceDataEquityOfficeHours@yale.edu/bookings/" target="_blank">Bookings Page</a>).</p>
+<p>Yale’s Public Health Data Science and Data Equity (DSDE) team created a workshop series for Public Health and Biostatistics masters-level students at Yale. They are designed to help learners effectively leverage computational tools and analytical methods in their educational and professional endeavors.</p>
+<p>You can find out more about past and upcoming tutorials on our YouTube (coming soon) and <a href="https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/events/" target="_blank">YSPH DSDE events page</a>. The codespaces and slides associated with each workshop can be found in the <a href="https://github.com/ysph-dsde" target="_blank">YSPH-DSDE GitHub</a> page.</p>
+<p>If you have suggestions for workshops or other events, please reach out to us at admin.dsdeysph@yale.edu. If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists (<a href="https://outlook.office.com/book/DataScienceDataEquityOfficeHours@yale.edu/?ae=true&amp;login_hint" target="_blank">Workshop Bookings Page</a>).</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
