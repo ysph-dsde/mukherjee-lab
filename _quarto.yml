@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   render:
-    - workshops/Data_Visualization_with_ggplot2_Worked_Through_Example/Worked_Through_Example.qmd
+    - workshops/Data_Visualization_with_ggplot2_Worked_Through_Example/Worked_Through_Example.html
 
 website:
   title: "Mukherjee Lab"
