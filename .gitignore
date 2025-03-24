@@ -5,3 +5,5 @@
 /.quarto/
 .DS_Store
 /docs/
+*_files
+*.html

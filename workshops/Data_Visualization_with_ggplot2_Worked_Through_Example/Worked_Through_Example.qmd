@@ -507,7 +507,7 @@ ggplot(df, aes(x = MMWRweek, y = Kernel)) +
 ```
 
 | Operation | Layer aesthetics | Result |
-|----|:---|:---|
+|------------------------|:-----------------------|:-----------------------|
 | Add | `aes(colour = Season)` | `aes(x = MMWRweek, y = Kernel, colour = Season)` |
 | Override | `aes(y = Level)` | `aes(x = MMWRweek, y = Level)` |
 | Remove | `aes(y = NULL)` | `aes(x = MMWRweek)` |
@@ -568,7 +568,8 @@ library("viridis")
 
 subset <- df |>
   filter(Region %in% c(datasets::state.name, "District of Columbia"), 
-         Season %in% include_seeasons, Level %in% ages_ordered)
+         Season %in% "2024-25", MMWRweek %in% c(24:26),
+         Level %in% ages_ordered)
 
 us_geo <- tigris::states(class = "sf", cb = TRUE) |>
   shift_geometry()
@@ -590,7 +591,6 @@ contiguous_states %>%
        caption = "Data Source: BLS.gov - Occupational Employment Statistics ; 2016")
 
 ```
-
 
 ```{r}
 #renderPlotly({
@@ -621,7 +621,6 @@ contiguous_states %>%
 #  ggtitle(paste("RSV ED Visit Percentage <1 year olds on", date.print))
 
 ```
-
 
 ### Introduction to Interactive Plotting with `plotly`
 
