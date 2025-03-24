@@ -45,9 +45,7 @@ First, we will load the necessary libraries and any special functions used in th
 #| warning: FALSE
 #| output: FALSE
 
-# NOTE: renv initializing might need to be run twice after the repo is
-#       first copied.
-renv::restore()
+install.packages("arrow")
 
 suppressPackageStartupMessages({
   library("arrow")         # For reading in the data
