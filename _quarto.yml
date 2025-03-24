@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - workshops/Data_Visualization_with_ggplot2_Worked_Through_Example/Worked_Through_Example.html
 
 website:
   title: "Mukherjee Lab"
@@ -25,6 +23,8 @@ website:
       - text: Public Health DSDE at Yale
         href: https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/
         target: _blank
+      - text: workshop
+        href: workshops/Data_Visualization_with_ggplot2_Worked_Through_Example/Worked_Through_Example.html
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search
