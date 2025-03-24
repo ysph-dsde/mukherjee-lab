@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - workshops/Data_Visualization_with_ggplot2_Worked_Through_Example.qmd
 
 website:
   title: "Mukherjee Lab"
