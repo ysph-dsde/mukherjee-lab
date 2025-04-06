@@ -7,13 +7,13 @@ website:
   page-navigation: true
   navbar:
     search: true
-    left:
-      - text: Home
-        href: index.qmd
+    right:
       - text: People
-        href: people.qmd
-      - text: Alumnae
-        href: alumnae.qmd
+        menu:
+          - text: Current Members
+            href: people.qmd
+          - text: Alumnae
+            href: alumnae.qmd
       - text: Software
         href: software.qmd
       - text: Publication and Preprints
@@ -31,7 +31,7 @@ website:
         href: people.qmd
       - text: Software
         href: software.qmd
-      - text: Publication
+      - text: Publications
         href: publications-preprints.qmd
       - text: Education and Outreach
         href: education-outreach.qmd
