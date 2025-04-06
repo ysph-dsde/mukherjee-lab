@@ -81,7 +81,7 @@ listing:
       categories: [Python Package]
     - title: "svycdiff"
       author: ["Stephen Salerno", "Emily K Roberts", "Tyler H McCormick", "Bhramar Mukherjee", "Xu Shi"]
-      path: x
+      path: https://cran.r-project.org/web/packages/svycdiff/index.html
       description: "R Package for Controlled Difference Estimation for Complex Surveys"
       categories: [R Package]
       
