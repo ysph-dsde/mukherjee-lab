@@ -51,7 +51,7 @@ listing:
       categories: [R Package]
     - title: "PRSweb"
       author: ["Snehal Patil"]
-      path: https://prsweb.sph.umich.edu:8443/
+      path: https://csg.sph.umich.edu/larsf/PRSweb1/2019-06-14T12-00-00/172.21-GWAS-Catalog-MGI.html
       description: "Interactive PheWAS results from analyses conducted using Michigan Genomics Initiative and UK Biobank data."
       categories: [Shiny Web Application] 
     - title: "PRSweb"
