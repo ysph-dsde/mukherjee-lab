@@ -87,19 +87,22 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="/mukherjee-lab/index.html"> 
-<span class="menu-text">Home</span></a>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">People</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-people">    
+        <li>
+    <a class="dropdown-item" href="/mukherjee-lab/people.html">
+ <span class="dropdown-text">Current Members</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="/mukherjee-lab/people.html"> 
-<span class="menu-text">People</span></a>
+        <li>
+    <a class="dropdown-item" href="/mukherjee-lab/alumnae.html">
+ <span class="dropdown-text">Alumnae</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="/mukherjee-lab/alumnae.html"> 
-<span class="menu-text">Alumnae</span></a>
-  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="/mukherjee-lab/software.html"> 
 <span class="menu-text">Software</span></a>
@@ -595,7 +598,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="/mukherjee-lab/publications-preprints.html">
-<p>Publication</p>
+<p>Publications</p>
 </a>
   </li>  
     <li class="nav-item">
