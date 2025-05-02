@@ -71,7 +71,7 @@ At the Data Science and Data Equity Initiative, Shelby is responsible for managi
 :::
 
 
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/) [{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu) [{{< fa user size=lg >}}](https://www.ssohani.com/) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/) [{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
 
 
 Jackson Higginbottom, MPH, is a public health practitioner working at the intersection of data science, health communications, and community engagement. He's the Program Manager for the Public Health Data Science and Data Equity initiative at the Yale School of Public Health. His primary research interests include: (1) investigating the social determinants of mental and physical health among sexual, ethnic and racial minority populations; and (2) developing and evaluating evidence-based interventions to address health needs of under-resourced communities. In addition to his roles at Yale, Jackson is the President of Fundación Manos Juntas, a free medical clinic that provides care to over 3,000 patients in Oklahoma City.
