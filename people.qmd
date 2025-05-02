@@ -8,7 +8,7 @@ filters:
 ![](images/banner-images/people.jpg)
 :::
 
-## Bhramar Mukherjee, PhD
+## Bhramar Mukherjee, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
 <img width="300" src="images/headshots-people/bhramar-mukherjee.png" />
@@ -28,7 +28,7 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 <br>
 
 
-## Yiran Wang, PhD
+## Yiran Wang, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
 <img width="300" src="images/headshots-people/yiran-wang.png" />
