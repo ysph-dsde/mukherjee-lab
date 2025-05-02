@@ -67,7 +67,7 @@ At the Data Science and Data Equity Initiative, Shelby is responsible for managi
 ## Jackson Higginbottom, M.P.H.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/jackson-higginbottom.jpg" />
+<img width="300" src="images/headshots-people/jackson-higginbottom.png" />
 :::
 
 
