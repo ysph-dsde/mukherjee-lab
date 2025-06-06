@@ -130,11 +130,11 @@ Jackson Higginbottom, MPH, is a public health practitioner working at the inters
 :::
 
 
-[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) 
-[{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf) 
-[{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)  
-[{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)  
-[{{< fa brands github size=lg >}}](https://github.com/jiacongD) 
+[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu)
+[{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf)
+[{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)
+[{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)
+[{{< fa brands github size=lg >}}](https://github.com/jiacongD)
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jiacong-du/)
 
 I am currently a fifth-year PhD candidate in Biostatistics at the University of Michigan. I come from Mianyang, a beautiful city in Sichuan Province, China. I am fortunate to be advised by [Dr. Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/) and [Dr. Xu Shi](http://www.xuritashi.com/). My dissertation focuses on developing statistical methods for analyzing electronic health records (EHR), with particular emphasis on addressing confounding, selection bias, and bias arising from clinically informative visiting processes. In my free time, I enjoy playing racket sports such as squash, badminton, and table tennis.
