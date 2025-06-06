@@ -35,11 +35,37 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 :::
 
 
-[{{< fa house size=lg >}}](https://medicine.yale.edu/profile/yiran-wang-yw995/) [{{< fa envelope size=lg >}}](mailto:yiran.wang.yw995@yale.edu) [{{< fa file-lines size=lg >}}](content/cv/yiran-wang.pdf) [{{< fa user size=lg >}}](https://sites.google.com/view/yiranwangstat/) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en) [{{< fa brands x-twitter size=lg >}}](https://x.com/YiranWangStat) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/harryyiranwang/)
+[{{< fa house size=lg >}}](https://medicine.yale.edu/profile/yiran-wang-yw995/) 
+[{{< fa envelope size=lg >}}](mailto:yiran.wang.yw995@yale.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/yiran-wang.pdf) 
+[{{< fa user size=lg >}}](https://sites.google.com/view/yiranwangstat/) 
+[{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=_lgZm3UAAAAJ&hl=en) 
+[{{< fa brands x-twitter size=lg >}}](https://x.com/YiranWangStat) 
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/harryyiranwang/)
 
 Yiran Wang is a postdoctoral associate in the Department of Biostatistics at Yale School of Public Health. He holds a Ph.D. in Statistics from the University of Waterloo, a Master of Science in Statistics from the University of California, Irvine, and a Bachelor of Science in Statistics from Donghua University. Yiran’s research centers on mediation analysis and data equity.
 
 Beyond his academic work, Yiran enjoys music, movies, exploring new cuisines, and traveling around the world. His two-year-old British Shorthair cat, Lemon, currently resides with his girlfriend in Toronto, where Yiran has also volunteered with two cat rescue organizations.
+
+
+<br>
+
+
+## 	Sean McGrath, Ph.D.
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/yiran-wang.png" />
+:::
+
+
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/sean-mcgrath/)
+[{{< fa envelope size=lg >}}](mailto:sean.mcgrath@yale.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/sean-mcgrath.pdf)
+[{{< fa user size=lg >}}](https://stmcg.github.io/) 
+[{{< fa brands github size=lg >}}](https://github.com/stmcg) 
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sean-mcgrath-16b782141/)
+
+Sean McGrath is a postdoctoral associate in the Department of Biostatistics at Yale School of Public Health. His research currently focuses on developing and applying causal inference methods, particularly in settings where data are integrated from multiple sources. Previously, he was a research fellow at Harvard Medical School and Harvard Pilgrim Health Care Institute. He completed a PhD in Biostatistics at Harvard University.
 
 
 <br>
@@ -57,6 +83,24 @@ Beyond his academic work, Yiran enjoys music, movies, exploring new cuisines, an
 Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics.
 
 At the Data Science and Data Equity Initiative, Shelby is responsible for managing the group's GitHub repository, ensuring compliance with data use Agreements and IRBs, overseeing data harmonization and warehousing efforts, providing AI/ML consultation, offering Python support, developing APIs, and collaborating on analytic projects. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ 
+
+<br>
+
+## Yiren Hou, M.S.
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/yiren-hou.png" />
+:::
+
+[{{< fa envelope size=lg >}}](mailto:	yiren.hou@yale.edu)
+[{{< fa file-lines size=lg >}}](content/cv/yiren-hou.pdf) 
+[{{< fa brands linkedin size=lg >}}](www.linkedin.com/in/yiren-hou-79180618b)
+
+
+Yiren Hou joined the team as a statistician in June 2025. She holds a Master of Science in Biostatistics from the University of Michigan and a Bachelor of Science in Statistics from the University of Georgia, where she also minored in Mathematics and Computer Science. At the Data Science and Data Equity Initiative, Yiren is responsible for applying appropriate statistical methods to support data-driven projects and research studies. Her academic training allows her to contribute effectively to the design, programming, execution, and analysis of studies.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
@@ -86,7 +130,12 @@ Jackson Higginbottom, MPH, is a public health practitioner working at the inters
 :::
 
 
-[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) [{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf) [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)  [{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)  [{{< fa brands github size=lg >}}](https://github.com/jiacongD) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jiacong-du/)
+[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu) 
+[{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf) 
+[{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)  
+[{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)  
+[{{< fa brands github size=lg >}}](https://github.com/jiacongD) 
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jiacong-du/)
 
 I am currently a fifth-year PhD candidate in Biostatistics at the University of Michigan. I come from Mianyang, a beautiful city in Sichuan Province, China. I am fortunate to be advised by [Dr. Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/) and [Dr. Xu Shi](http://www.xuritashi.com/). My dissertation focuses on developing statistical methods for analyzing electronic health records (EHR), with particular emphasis on addressing confounding, selection bias, and bias arising from clinically informative visiting processes. In my free time, I enjoy playing racket sports such as squash, badminton, and table tennis.
 
