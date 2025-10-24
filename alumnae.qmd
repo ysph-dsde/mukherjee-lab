@@ -560,3 +560,26 @@ University, Division of Biostatistics and Bioinformatics.
 <br>
 <br>
 <br>
+---
+
+### Yiran Wang
+
+:::{style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-alumnae/yiran-wang.png" />
+
+[Academic Homepage](https://sites.google.com/view/yiranwangstat/)
+[LinkedIn](https://www.linkedin.com/in/harryyiranwang/)
+:::
+
+(PhD in Statistics, University of Waterloo), 2024-2025.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
