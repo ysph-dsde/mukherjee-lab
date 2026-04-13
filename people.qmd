@@ -27,6 +27,34 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 <br>
 <br>
 
+## Jackson Higginbottom, M.P.H.
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/jackson-higginbottom.png" />
+:::
+
+
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/) [{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
+
+
+Jackson Higginbottom, MPH, is a public health practitioner working at the intersection of data science, health communications, and community engagement. He's the Program Manager for the Public Health Data Science and Data Equity initiative at the Yale School of Public Health. His primary research interests include: (1) investigating the social determinants of mental and physical health among sexual, ethnic and racial minority populations; and (2) developing and evaluating evidence-based interventions to address health needs of under-resourced communities. In addition to his roles at Yale, Jackson is the President of Fundación Manos Juntas, a free medical clinic that provides care to over 3,000 patients in Oklahoma City.
+
+<br>
+
+
+## 	Cheng-Han Yang, Ph.D.
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/cheng-han-yang.png" />
+:::
+
+
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/cheng-han-yang/)
+
+Associate Research Scientist in Biostatistics
+
+<br>
+
 
 ## 	Sean McGrath, Ph.D.
 
@@ -43,6 +71,22 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sean-mcgrath-16b782141/)
 
 Sean McGrath is a postdoctoral associate in the Department of Biostatistics at Yale School of Public Health. His research currently focuses on developing and applying causal inference methods, particularly in settings where data are integrated from multiple sources. Previously, he was a research fellow at Harvard Medical School and Harvard Pilgrim Health Care Institute. He completed a PhD in Biostatistics at Harvard University.
+
+
+<br>
+
+## 	Henan Xu, Ph.D.
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/henan-xu.png" />
+:::
+
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/henan-xu/)
+[{{< fa envelope size=lg >}}](mailto:henan.xu@yale.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/henan-xu.pdf)
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/henan-xu/)
+
+Henan Xu is a Postdoctoral Associate in the Department of Biostatistics at Yale School of Public Health. He received his PhD in Statistics from the University of Waterloo in 2026, after completing an MA in Statistics at Columbia University and a BSc in Mathematics and Statistics at the London School of Economics and Political Science. His research focuses on causal inference and statistical methodology, with particular interests in causal mediation analysis, longitudinal and functional data, and applications in health research. He has also been a Collaborating Research Trainee at Homewood Research Institute, where he contributes to collaborative mental health research.
 
 
 <br>
@@ -103,21 +147,6 @@ Evan Cohen is a software engineer with an affinity for design and user-experienc
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
-
-<br>
-
-
-## Jackson Higginbottom, M.P.H.
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/jackson-higginbottom.png" />
-:::
-
-
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/) [{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
-
-
-Jackson Higginbottom, MPH, is a public health practitioner working at the intersection of data science, health communications, and community engagement. He's the Program Manager for the Public Health Data Science and Data Equity initiative at the Yale School of Public Health. His primary research interests include: (1) investigating the social determinants of mental and physical health among sexual, ethnic and racial minority populations; and (2) developing and evaluating evidence-based interventions to address health needs of under-resourced communities. In addition to his roles at Yale, Jackson is the President of Fundación Manos Juntas, a free medical clinic that provides care to over 3,000 patients in Oklahoma City.
 
 <br>
 
@@ -210,4 +239,21 @@ Lillian Rountree joined the Mukherjee Lab in August 2023, when she began her PhD
 [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/youqi-yang.pdf)  [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)
 
 Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
+
+
+## 	Waveley Qiu
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/waveley-qiu.png" />
+:::
+
+[{{< fa envelope size=lg >}}](mailto:waveley.qiu@yale.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/waveley-qiu.pdf)
+[{{< fa brands github size=lg >}}](https://github.com/waveley)
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/waveley/)
+
+Waveley is a PhD student in the Department of Biostatistics at Yale, having begun in 2023 and joining the Mukherjee Lab in 2026. Prior to Yale, she received a MS in Biostatistics from Columbia University and a BS in Statistics from UCLA. She is interested in topics at the intersection of causal inference, real-world evidence, and drug discovery/development, motivated by her previous experience as a statistical programmer within the pharmaceutical industry. In her free time, Waveley enjoys reading good books and learning to make things from scratch – especially with others!
+
+
+<br>
    
