@@ -34,7 +34,9 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 :::
 
 
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/) [{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
+[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/jackson-higginbottom/)
+[{{< fa envelope size=lg >}}](mailto:jackson.higginbottom@yale.edu)
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jacksonhigg/)
 
 
 Jackson Higginbottom, MPH, is a public health practitioner working at the intersection of data science, health communications, and community engagement. He's the Program Manager for the Public Health Data Science and Data Equity initiative at the Yale School of Public Health. His primary research interests include: (1) investigating the social determinants of mental and physical health among sexual, ethnic and racial minority populations; and (2) developing and evaluating evidence-based interventions to address health needs of under-resourced communities. In addition to his roles at Yale, Jackson is the President of Fundación Manos Juntas, a free medical clinic that provides care to over 3,000 patients in Oklahoma City.
@@ -48,10 +50,14 @@ Jackson Higginbottom, MPH, is a public health practitioner working at the inters
 <img width="300" src="images/headshots-people/cheng-han-yang.png" />
 :::
 
-
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/cheng-han-yang/)
+[{{< fa envelope size=lg >}}](mailto:cheng-han.yang@yale.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/cheng-han-yang.pdf) 
+[{{< fa brands github size=lg >}}](https://github.com/cyang728/) 
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/cheng-han-yang-a18181205/)
 
-Associate Research Scientist in Biostatistics
+I am an Associate Research Scientist in Biostatistics at Yale University, where I work with Dr. Bhramar Mukherjee. My research focuses on electronic health record (EHR) data analysis and the development of statistical methods for complex missing data problems in real-world health data. In particular, I study settings where missingness may be informative or missing not at random, such as when sicker patients return to the hospital more often and therefore have more frequent clinical measurements recorded. If these processes are ignored, analyses can lead to biased results and misleading scientific conclusions. My work aims to develop rigorous methods that account for these biases and improve valid inference from longitudinal EHR data. I received my PhD in Biostatistics and Data Science from the University of Texas Health Science Center at Houston in 2025. My broader methodological interests include survival analysis, causal inference, and Bayesian methods for clinical trial design. Within Yale’s Data Science and Data Equity community, I contribute through methodological research on EHR-based data science and missing data in complex clinical settings.
+
 
 <br>
 
@@ -105,11 +111,7 @@ Henan Xu is a Postdoctoral Associate in the Department of Biostatistics at Yale 
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/shelby-golden/)
 
 
-Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics.
-
-At the Data Science and Data Equity Initiative, Shelby is responsible for managing the group's GitHub repository, ensuring compliance with data use Agreements and IRBs, overseeing data harmonization and warehousing efforts, providing AI/ML consultation, offering Python support, developing APIs, and collaborating on analytic projects. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge.
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge.
  
 
 <br>
@@ -130,84 +132,6 @@ Yiren Hou joined the team as a statistician in June 2025. She holds a Master of 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-
-## Evan Cohen
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/evan-cohen.png" />
-:::
-
-[{{< fa envelope size=lg >}}](mailto:evcohen@umich.edu)
-[{{< fa file-lines size=lg >}}](content/cv/evan-cohen.pdf)
-[{{< fa brands github size=lg >}}](https://github.com/evanhcohen) 
-[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/evancohen/)
-
-
-Evan Cohen is a software engineer with an affinity for design and user-experience. He graduated from the University of Michigan in May 2025, where he studied computer science and French. Within the DSDE initiative, Evan works on visualization, analysis, and coding projects. Prior to working with the Mukherjee Lab, Evan interned at Compugen, a leading cancer-immunotherapy startup, where he worked on integrating AI into their data platform, among other projects.
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- 
-
-<br>
-
-
-## Jiacong Du
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/jiacong-du.png" />
-:::
-
-
-[{{< fa envelope size=lg >}}](mailto:jiacong@umich.edu)
-[{{< fa file-lines size=lg  >}}](content/cv/jiacong-du.pdf)
-[{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en)
-[{{< fa user size=lg >}}](https://jiacongd.github.io/jiacongdu/)
-[{{< fa brands github size=lg >}}](https://github.com/jiacongD)
-[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/jiacong-du/)
-
-I am currently a fifth-year PhD candidate in Biostatistics at the University of Michigan. I come from Mianyang, a beautiful city in Sichuan Province, China. I am fortunate to be advised by [Dr. Bhramar Mukherjee](https://ysph.yale.edu/profile/bhramar-mukherjee/) and [Dr. Xu Shi](http://www.xuritashi.com/). My dissertation focuses on developing statistical methods for analyzing electronic health records (EHR), with particular emphasis on addressing confounding, selection bias, and bias arising from clinically informative visiting processes. In my free time, I enjoy playing racket sports such as squash, badminton, and table tennis.
-
-
-
-<br>
-<br>
-
-
-## Ritoban Kundu
-
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/ritoban-kundu.png" />
-:::
-
-[{{< fa envelope size=lg >}}](mailto:kundur@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/ritoban-kundu.pdf) [{{< fa brands github size=lg >}}](https://github.com/Ritoban1) [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/ritoban-kundu-b02914171/)
-
-
-I am currently a fourth-year Ph.D. student in the Department of Biostatistics at the University of Michigan. Three years ago, I relocated to the United States from my hometown of Kolkata, India. I earned my undergraduate and master's degrees in Statistics from the Indian Statistical Institute in Kolkata. My current research focuses on addressing selection bias in electronic health records data and conducting Causal mediation analysis with network interference. Beyond my academic pursuits, I have a keen interest in traveling, hiking, photography, watching arthouse films, and participating in various sports such as badminton, cricket, squash, biking, and skiing.
-
-
-<br>
-
-
-
-## Yi-Ting Lin
-
-::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/yi-ting-lin.png" />
-:::
-
-
-[{{< fa envelope size=lg >}}](mailto:yitlin@umich.edu) [{{< fa file-lines size=lg >}}](content/cv/yi-ting-lin.pdf)  [{{< fa brands github size=lg >}}](https://github.com/asus50901) 
-
-
-I am a second-year PhD student in the Department of Biostatistics at the University of Michigan. I got my bachelor's degree in economics and statistics from National Taipei University and my master's degree in biostatistics from Johns Hopkins University. My research interests are spatial statistics, causal mediation analysis, and environmental statistics.
-
-
-
-<br>
-<br>
-<br>
-<br>
 <br>
 
 

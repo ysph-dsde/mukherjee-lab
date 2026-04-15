@@ -487,6 +487,63 @@ University, Division of Biostatistics and Bioinformatics.
 
 <br>
 
+### Jiacong Du
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/jiacong-du.png" />
+
+[LinkedIn](https://www.linkedin.com/in/jiacong-du/)
+:::
+
+(Ph.D. 2024)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+### Ritoban Kundu
+
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/ritoban-kundu.png" />
+
+[Academic Homepage](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9452972)
+:::
+
+(Ph.D. 2024) Post Doc at the Center of Causal Inference, Upenn
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
 
 ## Post Doctoral Fellows
 
