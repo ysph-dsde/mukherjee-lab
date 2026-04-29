@@ -180,4 +180,21 @@ Waveley is a PhD student in the Department of Biostatistics at Yale, having begu
 
 
 <br>
+
+## Xingran Chen
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" src="images/headshots-people/xingran-chen.png" />
+:::
+
+[{{< fa user size=lg >}}](https://chenxingran.com/) 
+[{{< fa envelope size=lg >}}](mailto:chenxran@umich.edu) 
+[{{< fa file-lines size=lg >}}](content/cv/xingran-chen.pdf)
+[{{< fa brands github size=lg >}}](	https://github.com/chenxran)
+[{{< fa brands linkedin size=lg >}}](	https://www.linkedin.com/in/chenxran/)
+
+Xingran joined the Mukherjee Lab in May 2024 and is a PhD student in Biostatistics at the University of Michigan. He is co-advised by Dr. Bhramar Mukherjee and Dr. Zhenke Wu. His research focus on missing data problems (e.g., prediction-based inference) and synthetic electronic health record generation. Outside of research, Xingran enjoys running, birding, and spending time in nature.
+
+
+<br>
    
