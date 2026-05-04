@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ysph-dsde.github.io/mukherjee-lab/dsde.html</loc>
-    <lastmod>2026-04-09T20:03:43.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ysph-dsde.github.io/mukherjee-lab/people.html</loc>
-    <lastmod>2026-05-04T18:46:21.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ysph-dsde.github.io/mukherjee-lab/publications-preprints.html</loc>
-    <lastmod>2026-04-09T20:03:43.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ysph-dsde.github.io/mukherjee-lab/alumnae.html</loc>
-    <lastmod>2026-04-15T19:56:53.633Z</lastmod>
+    <loc>https://ysph-dsde.github.io/mukherjee-lab/education-outreach.html</loc>
+    <lastmod>2026-05-04T18:47:25.599Z</lastmod>
   </url>
   <url>
     <loc>https://ysph-dsde.github.io/mukherjee-lab/index.html</loc>
-    <lastmod>2026-04-09T20:03:43.529Z</lastmod>
+    <lastmod>2026-05-04T18:47:26.082Z</lastmod>
   </url>
   <url>
     <loc>https://ysph-dsde.github.io/mukherjee-lab/software.html</loc>
-    <lastmod>2026-04-09T20:03:43.530Z</lastmod>
+    <lastmod>2026-05-04T18:47:26.083Z</lastmod>
   </url>
   <url>
-    <loc>https://ysph-dsde.github.io/mukherjee-lab/education-outreach.html</loc>
-    <lastmod>2026-04-09T20:03:43.008Z</lastmod>
+    <loc>https://ysph-dsde.github.io/mukherjee-lab/publications-preprints.html</loc>
+    <lastmod>2026-05-04T18:47:26.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ysph-dsde.github.io/mukherjee-lab/people.html</loc>
+    <lastmod>2026-05-04T18:47:26.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ysph-dsde.github.io/mukherjee-lab/dsde.html</loc>
+    <lastmod>2026-05-04T18:47:25.599Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ysph-dsde.github.io/mukherjee-lab/alumnae.html</loc>
+    <lastmod>2026-05-04T18:47:25.584Z</lastmod>
   </url>
 </urlset>
