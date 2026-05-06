@@ -6,7 +6,7 @@ filters:
 
 
 ::: {.column-body}
-![](images/banner-images/alumnae.jpg)
+![](../content/images/banner-images/alumnae.jpg)
 :::
 
 ## Doctoral Students

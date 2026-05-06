@@ -7,7 +7,7 @@ execute:
 ---
 
 ::: {.column-body}
-![](images/banner-images/publications-preprints.jpg)
+![](../content/images/banner-images/publications-preprints.jpg)
 :::
 
 ```{r setup}

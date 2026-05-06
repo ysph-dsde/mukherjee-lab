@@ -5,7 +5,7 @@ filters:
 ---
 
 ::: {.column-body}
-![](images/banner-images/education-outreach.jpg)
+![](../content/images/banner-images/education-outreach.jpg)
 :::
 
 

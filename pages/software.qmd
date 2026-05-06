@@ -90,6 +90,6 @@ listing:
 
 
 ::: {.column-body}
-![](images/banner-images/software.jpg)
+![](../content/images/banner-images/software.jpg)
 :::
 

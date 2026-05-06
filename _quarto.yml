@@ -2,7 +2,7 @@ project:
   type: website
   render:
     - "**/*.qmd"
-    - "!code/Standard Operating Procedure (SOP)/SOP.qmd"
+    #- "!code/Standard Operating Procedure (SOP)/SOP.qmd"
   output-dir: docs
 
 website:
