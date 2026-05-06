@@ -44,11 +44,11 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 \texttt{\ \ \ \ \ \ |- SOP Formatting/}\\
 \texttt{\ \ |- content/}\\
 \texttt{\ \ \ \ |- cv/}\\
+\texttt{\ \ \ \ |- images/}\\
+\texttt{\ \ \ \ \ \ |- banner-images/}\\
+\texttt{\ \ \ \ \ \ |- headshots-alumnae/}\\
+\texttt{\ \ \ \ \ \ |- headshots-people/}\\
 \texttt{\ \ |- docs/}\\
-\texttt{\ \ |- images/}\\
-\texttt{\ \ \ \ |- banner-images/}\\
-\texttt{\ \ \ \ |- headshots-alumnae/}\\
-\texttt{\ \ \ \ |- headshots-people/}\\
 \texttt{\ \ |- renv/}
 \end{flushleft}
 
