@@ -16,6 +16,8 @@ csl: ../nature.csl
 
 The purpose of this document is to outline the contents and ongoing maintenance procedure of the Mukherjee Lab website.
 
+**Developer:** Howard Baik, M.S.
+
 **Authors:**
 
 - Shelby Golden, M.S.
@@ -28,7 +30,15 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 \tableofcontents
 \newpage
 
-# File Structure
+# Important Links
+
+- [Website](https://ysph-dsde.github.io/mukherjee-lab/)
+- [GitHub Repository](https://github.com/ysph-dsde/mukherjee-lab)
+- SharePoint (located in "DSDE - Core/General/Media & Communications/Website/Mukherjee Lab")
+
+The project SharePoint folder contains additional links and files, including backups of CV, headshot images, and the new lab member survey link.
+
+# Codebase File Structure
 
 \vspace{-2ex}
 
@@ -52,85 +62,78 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 \texttt{\ \ |- renv/}
 \end{flushleft}
 
+# Maintaining the Website
 
-# Important Links
+Page content is managed through the corresponding `*.qmd` files. Refer to existing files for guidance on content organization and formatting conventions.
 
-- [Website](https://ysph-dsde.github.io/mukherjee-lab/)
-- [GitHub Repository](https://github.com/ysph-dsde/mukherjee-lab)
-- SharePoint (located in "DSDE - Core/General/Media & Communications/Website/Mukherjee Lab")
+A GitHub Actions workflow, defined in "`.github`/workflows/`publish.yml`", automatically republishes the website when new content is pushed to the repository. It also includes a scheduled trigger that republishes the site once a month.
 
-Additional links and files not described here are also included in the project SharePoint folder, including back-ups of CV's, headshot images, and links to surveys.
+The `publications-preprints.qmd` file is self-maintaining — it uses an R script to automatically scrape publications from PubMed and requires no manual updates. The publications page is refreshed every time the website is republished, whether triggered by a push or a scheduled GitHub Action.
 
-# Updating Procedure
+## Publishing Manually
 
-In this example, we will create a mock project folder from scratch, initialize Git, and link it to a remote repository on GitHub. We will then test the connection by adding "Hello World" to the `README.md` file on GitHub and pulling the changes to the local repository.
+To publish the site manually, follow the instructions below. This process will not interfere with the existing GitHub Actions.
 
-## Create an Empty Remote Repository
+\vspace{-2.5ex}
+\noindent\rule[0.3ex]{\textwidth}{1pt}\vspace{-2.5ex}
+\small \textbf{Command-Line Interface} \normalsize\vspace{-2.5ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}\vspace{-0.8ex}
 
-1. [Log in](https://github.com/login) to your personal GitHub account.
+```{.bash}
+cd "FILE-PATH/mukherjee-lab/"
+git add .
+git commit -m "<message>"
+git push
+quarto publish gh-pages
+```
 
-2. In the top-right of the page navigation bar, select the
-
-3. Fill out the following sections:
-
-    a. Adjust the GitHub account owner as needed and create the name for the new repository.
-    
-    c. It is good practice to initially set the repository to "Private".
-    
-    d. Do **[NOT]{.underline}** use a template or include a description, `README.md`, `.gitignore`, or license.
-
-## Create a New Local Project
-
-1. Open the command-line application (i.e. Terminal for Macs and Git Bash for Windows) and navigate to the file location you want to temporarily store the repository copy\ [@local_hosted].
-
-\vspace{-2ex}
-
-\begin{list}{}{\setlength\leftmargin{2.5em}}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{1pt}\vspace{-2.5ex}
-  \item\small \textbf{Command-Line Interface} \normalsize \vspace{-2.5ex}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-0.8ex}
-  
-  \begin{codebox}
-  \begin{Verbatim}[breaklines = true, breaksymbol = \textcolor{idlelinnum}{\scriptsize$\hookrightarrow$}, commandchars = \\\{\}]
-\func{cd} \str{"~/dsde-workshops/"}     \com{# Go to workshop directory}
-\func{mkdir} \str{"start-local"}        \com{# Create project folder}
-\func{cd} \str{"start-local"}           \com{# Enter project folder}
-  \end{Verbatim}
-  \end{codebox}
-
-  \vspace{-4.5ex}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}
-\end{list}
+\vspace{-5.5ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}
 
 
-2. Confirm that Git has **[NOT]{.underline}** yet been initialized by checking the project status. If the project is initialized, you should see that Git is present and tracking files.
+## Adding New Members
 
-\vspace{-2ex}
+1. Send the "Lab Members" Qualtrics survey to the new lab member. The survey link can be found in the group's SharePoint folder. To edit the survey, navigate to your Yale Qualtrics account. Only designated collaborators have editing access.
 
-\begin{list}{}{\setlength\leftmargin{2.5em}}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{1pt}\vspace{-2.5ex}
-  \item\small \textbf{Command-Line Interface} \normalsize \vspace{-2.5ex}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-0.8ex}
+2. Once the new lab member has completed the survey, their response will appear under the "Data & Analysis" tab in Qualtrics. This page is visible to survey collaborators only.
 
-  \begin{codebox}
-  \begin{Verbatim}[breaklines = true, breaksymbol = \textcolor{idlelinnum}{\scriptsize$\hookrightarrow$}, commandchars = \\\{\}]
-\func{git} status    \com{# Show current status}
-  \end{Verbatim}
-  \end{codebox}
+3. Click the "$\cdots$" to the right of the survey response to view the new member's details. From here, you can also download their CV and headshot.
 
-  \vspace{-4.5ex}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-2.5ex}
-  \item\small \textbf{Output} \normalsize \vspace{-2.5ex}
-  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-0.8ex}
+4. After downloading the CV and headshot, rename the files to match the new member's name (e.g., `bhramar-mukherjee.pdf`).
 
-  \begin{codebox}
-  \begin{Verbatim}[breaklines = true, breaksymbol = \textcolor{idlelinnum}{\scriptsize$\hookrightarrow$}, commandchars = \\\{\}]
-\str{fatal:} not a \func{git} repository (or any of the parent directories: \str{.git}
-  \end{Verbatim}
-  \end{codebox}
+5. Upload a copy of each file to the respective SharePoint folders as a backup. Then, move the remaining copies to the "content/cv" and "content/images/headshots-people" directories.
 
-\vspace{-4.5ex}
-\item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}
-\end{list}
+6. Add the new lab member to the "People/Current Members" page by copying and pasting their provided details to "pages/`people.qmd`".
+
+7. **OPTIONAL:** Run `quarto preview` to verify that all file references, links, and content styling render correctly.
+
+8. Commit and push your changes. This will automatically trigger a republish of the website. If manual republishing is needed, refer to the instructions in the previous section.
+
+
+# Maintaining the SOP
+
+
+This Standard Operating Procedure (SOP) uses a preconfigured LaTeX formatting script. The report `*.qmd` and formatting files are located in "code/Standard Operating Procedure (SOP)/."
+
+If you are updating the document, please add your name to the **Authors** field and update the **Date Updated** field accordingly. The LaTeX formatting script will automatically include the date the document was rendered at the top of the page.
+
+To preview a rendered version of the document, comment out the following line in the website's `_quarto.yml`:
+
+\vspace{-2.5ex}
+\noindent\rule[0.3ex]{\textwidth}{1pt}\vspace{-2.5ex}
+\small \textbf{\texttt{\_quarto.yml}} \normalsize\vspace{-2.5ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}\vspace{-0.8ex}
+
+```{.yml}
+- "!code/Standard Operating Procedure (SOP)/SOP.qmd"
+```
+
+\vspace{-5.5ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}
+
+
+This line prevents the SOP from being rendered by the GitHub Actions workflow. Once you have finished editing and previewing, uncomment the line to avoid errors with the GitHub Actions workflow.
+
+Once you have finished editing the document render it, move the resulting `*.pdf` to the project's root directory, then commit and push your changes.
 
 

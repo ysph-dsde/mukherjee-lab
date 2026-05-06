@@ -339,17 +339,17 @@
 % If there are no native codeblocks in the document, then comment the
 % codeblock out.
 
-% \renewenvironment{Shaded}{
-%   \begin{mdframed}[style=highlighting]
-%   \setlength{\parindent}{0pt}
-%   \setlength{\leftskip}{1em}  % Padding inside the left side of the shaded box
-%   \setlength{\rightskip}{1em} % Padding inside the right side of the shaded box
-%   \setlength{\topsep}{0.5em}  % Padding above the shaded content
-%   \setlength{\partopsep}{0.5em} % Padding below the shaded content
-%   \setlength{\parskip}{0pt}\small}
-% {
-%   \end{mdframed}
-% }
+\renewenvironment{Shaded}{
+  \begin{mdframed}[style=highlighting]
+  \setlength{\parindent}{0pt}
+  \setlength{\leftskip}{1em}  % Padding inside the left side of the shaded box
+  \setlength{\rightskip}{1em} % Padding inside the right side of the shaded box
+  \setlength{\topsep}{0.5em}  % Padding above the shaded content
+  \setlength{\partopsep}{0.5em} % Padding below the shaded content
+  \setlength{\parskip}{0pt}\small}
+{
+  \end{mdframed}
+}
 
 % ---------------------------------------------------------
 
