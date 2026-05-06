@@ -1,7 +1,7 @@
 ---
 title: "Education and Outreach"
 filters:
-  - newpagelink.lua
+  - ../code/newpagelink.lua
 ---
 
 ::: {.column-body}

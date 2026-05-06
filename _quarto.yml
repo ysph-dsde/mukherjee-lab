@@ -11,15 +11,15 @@ website:
       - text: People
         menu:
           - text: Current Members
-            href: people.qmd
+            href: pages/people.qmd
           - text: Alumnae
-            href: alumnae.qmd
+            href: pages/alumnae.qmd
       - text: Software
-        href: software.qmd
+        href: pages/software.qmd
       - text: Publication and Preprints
-        href: publications-preprints.qmd
+        href: pages/publications-preprints.qmd
       - text: Education and Outreach
-        href: education-outreach.qmd
+        href: pages/education-outreach.qmd
       - text: Public Health DSDE at Yale
         href: https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/
         target: _blank
@@ -28,13 +28,13 @@ website:
     left: "This site was built on a ysph-dsde.github.io page. It was rendered using Quarto (v 1.6.3) and theme [cosmo](https://github.com/thomaspark/bootswatch/)." 
     center:
       - text: People
-        href: people.qmd
+        href: pages/people.qmd
       - text: Software
-        href: software.qmd
+        href: pages/software.qmd
       - text: Publications
-        href: publications-preprints.qmd
+        href: pages/publications-preprints.qmd
       - text: Education and Outreach
-        href: education-outreach.qmd
+        href: pages/education-outreach.qmd
 
 language: 
   search-text-placeholder: Search  # Placeholder text for Search
@@ -42,7 +42,7 @@ language:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: _styles/styles.css
     toc: true
 
 

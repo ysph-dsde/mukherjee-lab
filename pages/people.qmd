@@ -1,22 +1,22 @@
 ---
 title: "People"
 filters:
-  - newpagelink.lua
+  - ../code/newpagelink.lua
 ---
 
 ::: {.column-body}
-![](images/banner-images/people.jpg)
+![](../content/images/banner-images/people.jpg)
 :::
 
 ## Bhramar Mukherjee, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/bhramar-mukherjee.png" />
+<img width="300" src="../content/images/headshots-people/bhramar-mukherjee.png" />
 :::
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/bhramar-mukherjee/) 
 [{{< fa envelope size=lg >}}](mailto:bhramar.mukherjee@yale.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/bhramar-mukherjee.pdf) 
+[{{< fa file-lines size=lg >}}](../content/cv/bhramar-mukherjee.pdf) 
 [{{< ai google-scholar size=lg >}}](https://scholar.google.com/citations?user=-zwWIG4AAAAJ&hl=en) 
 [{{< fa brands x-twitter size=lg >}}](https://x.com/BhramarBioStat) 
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/bhramar-mukherjee-483810320/)
@@ -30,7 +30,7 @@ Professor Bhramar Mukherjee is the Anna M.R. Lauder Professor of Biostatistics a
 ## Jackson Higginbottom, M.P.H.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/jackson-higginbottom.png" />
+<img width="300" src="../content/images/headshots-people/jackson-higginbottom.png" />
 :::
 
 
@@ -47,12 +47,12 @@ Jackson Higginbottom, MPH, is a public health practitioner working at the inters
 ## 	Cheng-Han Yang, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/cheng-han-yang.png" />
+<img width="300" src="../content/images/headshots-people/cheng-han-yang.png" />
 :::
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/cheng-han-yang/)
 [{{< fa envelope size=lg >}}](mailto:cheng-han.yang@yale.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/cheng-han-yang.pdf) 
+[{{< fa file-lines size=lg >}}](../content/cv/cheng-han-yang.pdf) 
 [{{< fa brands github size=lg >}}](https://github.com/cyang728/) 
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/cheng-han-yang-a18181205/)
 
@@ -65,13 +65,13 @@ I am an Associate Research Scientist in Biostatistics at Yale University, where 
 ## 	Sean McGrath, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/sean-mcgrath.png" />
+<img width="300" src="../content/images/headshots-people/sean-mcgrath.png" />
 :::
 
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/sean-mcgrath/)
 [{{< fa envelope size=lg >}}](mailto:sean.mcgrath@yale.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/sean-mcgrath.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/sean-mcgrath.pdf)
 [{{< fa user size=lg >}}](https://stmcg.github.io/) 
 [{{< fa brands github size=lg >}}](https://github.com/stmcg) 
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/sean-mcgrath-16b782141/)
@@ -84,12 +84,12 @@ Sean McGrath is a postdoctoral associate in the Department of Biostatistics at Y
 ## 	Henan Xu, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/henan-xu.png" />
+<img width="300" src="../content/images/headshots-people/henan-xu.png" />
 :::
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/henan-xu/)
 [{{< fa envelope size=lg >}}](mailto:henan.xu@yale.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/henan-xu.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/henan-xu.pdf)
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/henan-xu/)
 
 Henan Xu is a Postdoctoral Associate in the Department of Biostatistics at Yale School of Public Health. He received his PhD in Statistics from the University of Waterloo in 2026, after completing an MA in Statistics at Columbia University and a BSc in Mathematics and Statistics at the London School of Economics and Political Science. His research focuses on causal inference and statistical methodology, with particular interests in causal mediation analysis, longitudinal and functional data, and applications in health research. He has also been a Collaborating Research Trainee at Homewood Research Institute, where he contributes to collaborative mental health research.
@@ -101,12 +101,12 @@ Henan Xu is a Postdoctoral Associate in the Department of Biostatistics at Yale 
 ## Shelby Golden, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/shelby-golden.png" />
+<img width="300" src="../content/images/headshots-people/shelby-golden.png" />
 :::
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/shelby-golden/)
 [{{< fa envelope size=lg >}}](mailto:shelby.golden@yale.edu)
-[{{< fa file-lines size=lg >}}](content/cv/shelby-golden.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/shelby-golden.pdf)
 [{{< fa brands github size=lg >}}](https://github.com/sgolde13) 
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/shelby-golden/)
 
@@ -119,12 +119,12 @@ Shelby Golden is a data scientist with a background in computational mathematics
 ## Yiren Hou, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/yiren-hou.png" />
+<img width="300" src="../content/images/headshots-people/yiren-hou.png" />
 :::
 
 [{{< fa house size=lg >}}](https://ysph.yale.edu/profile/yiren-hou/)
 [{{< fa envelope size=lg >}}](mailto:yiren.hou@yale.edu)
-[{{< fa file-lines size=lg >}}](content/cv/yiren-hou.pdf) 
+[{{< fa file-lines size=lg >}}](../content/cv/yiren-hou.pdf) 
 [{{< fa brands linkedin size=lg >}}](www.linkedin.com/in/yiren-hou-79180618b)
 
 
@@ -138,11 +138,11 @@ Yiren Hou joined the team as a statistician in June 2025. She holds a Master of 
 ## Lillian Rountree, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/lillian-rountree.png" />
+<img width="300" src="../content/images/headshots-people/lillian-rountree.png" />
 :::
 
 [{{< fa envelope size=lg >}}](mailto:lillian.rountree@yale.edu)
-[{{< fa file-lines size=lg >}}](content/cv/lillian-rountree.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/lillian-rountree.pdf)
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/lillian-r-655456217/)
 
 Lillian Rountree is a PhD student in the Department of Biostatistics at Yale. She joined the Mukherjee Lab in August 2023, when she began her masters at the University of Michigan. She also holds a Bachelors of Arts in Statistics and French from Columbia University. Her research interests include developing causal methods for infectious disease transmission and operationalizing data equity. In her other life, outside of research and academia, she is a fiction writer; in her free time beyond that, she loves literature, pop culture, and meandering walks.
@@ -156,12 +156,12 @@ Lillian Rountree is a PhD student in the Department of Biostatistics at Yale. Sh
 
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/youqi-yang.png" />
+<img width="300" src="../content/images/headshots-people/youqi-yang.png" />
 :::
 
 
 [{{< fa envelope size=lg  >}}](mailto:youqi@umich.edu)
-[{{< fa file-lines size=lg >}}](content/cv/youqi-yang.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/youqi-yang.pdf)
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/youqi-yang-a04636220/)
 
 Youqi Yang is a second-year PhD candidate in Biostatistics at the University of Michigan, working under the mentorship of Dr. Bhramar Mukherjee and Dr. Walter Dempsey. His research focuses on causal inference, data integration, and survey analysis. In his free time, Youqi enjoys exploring pop culture, discovering great movies, and playing badminton. He also runs a "growing" food Instagram account with 24 followers.
@@ -170,11 +170,11 @@ Youqi Yang is a second-year PhD candidate in Biostatistics at the University of 
 ## 	Waveley Qiu
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/waveley-qiu.png" />
+<img width="300" src="../content/images/headshots-people/waveley-qiu.png" />
 :::
 
 [{{< fa envelope size=lg >}}](mailto:waveley.qiu@yale.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/waveley-qiu.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/waveley-qiu.pdf)
 [{{< fa brands github size=lg >}}](https://github.com/waveley)
 [{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/waveley/)
 
@@ -186,12 +186,12 @@ Waveley is a PhD student in the Department of Biostatistics at Yale, having begu
 ## Xingran Chen
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/xingran-chen.png" />
+<img width="300" src="../content/images/headshots-people/xingran-chen.png" />
 :::
 
 [{{< fa user size=lg >}}](https://chenxingran.com/) 
 [{{< fa envelope size=lg >}}](mailto:chenxran@umich.edu) 
-[{{< fa file-lines size=lg >}}](content/cv/xingran-chen.pdf)
+[{{< fa file-lines size=lg >}}](../content/cv/xingran-chen.pdf)
 [{{< fa brands github size=lg >}}](	https://github.com/chenxran)
 [{{< fa brands linkedin size=lg >}}](	https://www.linkedin.com/in/chenxran/)
 
