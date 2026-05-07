@@ -103,11 +103,13 @@ quarto publish gh-pages
 
 5. Upload a copy of each file to the respective SharePoint folders as a backup. Then, move the remaining copies to the "content/cv" and "content/images/headshots-people" directories.
 
-6. Add the new lab member to the "People/Current Members" page by copying and pasting their provided details to "pages/`people.qmd`".
+6. Crop all headshot images in "content/images/headshots-people" into uniform circular shapes.
 
-7. **OPTIONAL:** Run `quarto preview` to verify that all file references, links, and content styling render correctly.
+7. Add the new lab member to the "People/Current Members" page by copying and pasting their provided details to "pages/`people.qmd`".
 
-8. Commit and push your changes. This will automatically trigger a republish of the website. If manual republishing is needed, refer to the instructions in the previous section.
+8. **OPTIONAL:** Run `quarto preview` to verify that all file references, links, and content styling render correctly.
+
+9. Commit and push your changes. This will automatically trigger a republish of the website. If manual republishing is needed, refer to the instructions in the previous section.
 
 
 # Maintaining the SOP
