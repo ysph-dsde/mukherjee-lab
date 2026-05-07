@@ -17,7 +17,7 @@ filters:
 ### Samiran Sinha
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/samiran-sinha.png" />
+<img width="300" src="../content/images/headshots-alumnae/samiran-sinha.png" />
 
 [Academic Homepage](https://scholars.library.tamu.edu/vivo/display/nf7f32f6f/Persons/View%20All)
 :::
@@ -43,7 +43,7 @@ filters:
 ### Li Zhang
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/li-zhang.png" />
+<img width="300" src="../content/images/headshots-alumnae/li-zhang.png" />
 
 [Academic Homepage](https://profiles.ucsf.edu/li.zhang)
 :::
@@ -72,7 +72,7 @@ Francisco.
 ### Upasana Santra
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/upasana-santra.png" />
+<img width="300" src="../content/images/headshots-alumnae/upasana-santra.png" />
 
 [Academic Homepage](https://frontdoor.valenciacollege.edu/faculty.cfm?uid=usantra)
 :::
@@ -102,7 +102,7 @@ College, Florida.
 ### Jaeil Ahn
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/jaeil-ahn.png" />
+<img width="300" src="../content/images/headshots-alumnae/jaeil-ahn.png" />
 
 [Academic Homepage](https://gufaculty360.georgetown.edu/s/contact/00336000014TT9nAAG/jaeil-ahn)
 :::
@@ -129,7 +129,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Philip Simon Boonstra
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/philip-simon-boonstra.png" />
+<img width="300" src="../content/images/headshots-alumnae/philip-simon-boonstra.png" />
 
 [Academic Homepage](https://sph.umich.edu/faculty-profiles/boonstra-philip.html)
 :::
@@ -156,7 +156,7 @@ University, Division of Biostatistics and Bioinformatics.
 
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/shi-li.png" />
+<img width="300" src="../content/images/headshots-alumnae/shi-li.png" />
 
 [LinkedIn](https://www.linkedin.com/in/shi-li-1847bb50/)
 :::
@@ -185,7 +185,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Yi-An Ko
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/yi-an-ko.png" />
+<img width="300" src="../content/images/headshots-alumnae/yi-an-ko.png" />
 
 [Academic Homepage](https://sph.emory.edu/faculty/profile/index.php?FID=yi-an-ko-8701)
 :::
@@ -210,7 +210,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Zhichao Sun
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/zhichao-sun.png" />
+<img width="300" src="../content/images/headshots-alumnae/zhichao-sun.png" />
 
 [LinkedIn](https://www.linkedin.com/in/zhichao-sun-ab9a3690/)
 :::
@@ -234,7 +234,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Zihuai He
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/zihuai-he.png" />
+<img width="300" src="../content/images/headshots-alumnae/zihuai-he.png" />
 
 [Academic Homepage](https://profiles.stanford.edu/zihuai-he)
 :::
@@ -257,7 +257,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Yin-Hsiu Chen
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/yin-hsiu-chen.png" />
+<img width="300" src="../content/images/headshots-alumnae/yin-hsiu-chen.png" />
 
 [LinkedIn](https://www.linkedin.com/in/yin-hsiu-aaron-chen-36a15129/)
 :::
@@ -283,7 +283,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Wenting Cheng
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/wenting-cheng.png" />
+<img width="300" src="../content/images/headshots-alumnae/wenting-cheng.png" />
 
 [LinkedIn](https://www.linkedin.com/in/wenting-cheng-57873224/)
 :::
@@ -309,7 +309,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Yanyi Song
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/yanyi-song.png" />
+<img width="300" src="../content/images/headshots-alumnae/yanyi-song.png" />
 
 [LinkedIn](https://www.linkedin.com/in/yanyi-song-555b087b/)
 :::
@@ -341,7 +341,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Zhangchen Zhao
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/zhangchen-zhao.png" />
+<img width="300" src="../content/images/headshots-alumnae/zhangchen-zhao.png" />
 
 [LinkedIn](https://www.linkedin.com/in/zhangchen-zhao-a93a4885/)
 :::
@@ -366,7 +366,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Tian Gu
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/tian-gu.png" />
+<img width="300" src="../content/images/headshots-alumnae/tian-gu.png" />
 
 [Academic Homepage](https://www.publichealth.columbia.edu/profile/tian-gu-phd)
 :::
@@ -390,7 +390,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Youfei Yu
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/youfei-yu.png" />
+<img width="300" src="../content/images/headshots-alumnae/youfei-yu.png" />
 
 [LinkedIn](https://www.linkedin.com/in/youfei-yu-a6ba9b3b/)
 :::
@@ -415,7 +415,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Yongwen Zhuang
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/yongwen-zhuang.png" />
+<img width="300" src="../content/images/headshots-alumnae/yongwen-zhuang.png" />
 
 [LinkedIn](https://www.linkedin.com/in/yongwen-zhuang/)
 :::
@@ -440,7 +440,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Jonathan Boss
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/jonathan-boss.png" />
+<img width="300" src="../content/images/headshots-alumnae/jonathan-boss.png" />
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-boss-75768377/)
 :::
@@ -465,7 +465,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Maxwell Salvatore
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/max-salvatore.png" />
+<img width="300" src="../content/images/headshots-alumnae/max-salvatore.png" />
 
 [Academic Homepage](https://ritchielab.org/people/post-doctral-fellow/max-salvatore)
 :::
@@ -490,7 +490,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Jiacong Du
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/jiacong-du.png" />
+<img width="300" src="../content/images/headshots-people/jiacong-du.png" />
 
 [LinkedIn](https://www.linkedin.com/in/jiacong-du/)
 :::
@@ -519,7 +519,7 @@ University, Division of Biostatistics and Bioinformatics.
 
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-people/ritoban-kundu.png" />
+<img width="300" src="../content/images/headshots-people/ritoban-kundu.png" />
 
 [Academic Homepage](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9452972)
 :::
@@ -552,7 +552,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Jason P Estes
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/jason-estes.png" />
+<img width="300" src="../content/images/headshots-alumnae/jason-estes.png" />
 
 [LinkedIn](https://www.linkedin.com/in/jason-estes-phd-2b0408113/)
 :::
@@ -577,7 +577,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Lauren Beesley
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/lauren-beesley.png" />
+<img width="300" src="../content/images/headshots-alumnae/lauren-beesley.png" />
 
 [Academic Homepage](https://lbeesleybiostat.wordpress.com/)
 :::
@@ -600,7 +600,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Max Aung
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/max-aung.png" />
+<img width="300" src="../content/images/headshots-alumnae/max-aung.png" />
 
 [Academic Homepage](https://keck.usc.edu/faculty-search/max-m-aung/)
 :::
@@ -622,7 +622,7 @@ University, Division of Biostatistics and Bioinformatics.
 ### Yiran Wang
 
 :::{style="float: left; margin-right: 20px;"}
-<img width="300" src="images/headshots-alumnae/yiran-wang.png" />
+<img width="300" src="../content/images/headshots-alumnae/yiran-wang.png" />
 
 [Academic Homepage](https://sites.google.com/view/yiranwangstat/)
 [LinkedIn](https://www.linkedin.com/in/harryyiranwang/)
