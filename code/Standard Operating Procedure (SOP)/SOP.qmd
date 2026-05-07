@@ -22,9 +22,9 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 
 - Shelby Golden, M.S.
 
-**Date Effective:** April 24<sup>th</sup>, 2026
+**Date Effective:** May 7<sup>th</sup>, 2026
 
-**Date Updated:** N/A
+**Date Updated:** May 7<sup>th</sup>, 2026
 
 
 \tableofcontents
@@ -38,7 +38,9 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 
 The project SharePoint folder contains additional links and files, including backups of CV, headshot images, and the new lab member survey link.
 
-# Codebase File Structure
+# Codebase Overview
+
+## File Structure
 
 \vspace{-2ex}
 
@@ -61,6 +63,87 @@ The project SharePoint folder contains additional links and files, including bac
 \texttt{\ \ |- docs/}\\
 \texttt{\ \ |- renv/}
 \end{flushleft}
+
+## Environment Reproducibility
+
+This website was created using R (v 4.5.2) in the RStudio IDE (v 2026.01.1+403) and Quarto (v 1.8.27). The `renv()` package (v 1.1.7) is included to reproduce the same coding environment, ensuring all relevant packages and package versions are stored. If you encounter issues running the scripts, please check that the environment is initialized and that you are using the same versions of R, RStudio, and Quarto.
+
+\vspace{1ex}
+
+:::{.callout-warning}
+Updating packages, R, or Quarto may introduce compatibility issues with legacy code that will need to be resolved on a case-by-case basis.
+:::
+
+\vspace{1ex}
+
+If this is the first time the repository is being initialized, you may need to initialize the environment. This step will install all packages and versions used in the codebase, ensuring a reproducible coding environment. To do so:
+
+1. In the command-line application (i.e., Terminal for Macs or Git Bash for Windows) navigate to the codebase file location.
+
+\begin{list}{}{\setlength\leftmargin{2.5em}}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{1pt}\vspace{-2.5ex}
+  \item\small \textbf{Command-Line Interface} \normalsize \vspace{-2.5ex}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-0.8ex}
+  
+  \begin{codebox}
+  \begin{Verbatim}[breaklines = true, breaksymbol = \textcolor{idlelinnum}{\scriptsize$\hookrightarrow$}, commandchars = \\\{\}]
+\func{cd} \str{"FILE-PATH/mukherjee-lab/"}
+  \end{Verbatim}
+  \end{codebox}
+
+  \vspace{-4.5ex}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}
+\end{list}
+
+2. Launch the project by opening the `*.Rproj` file in RStudio.
+
+3. In the R console, activate the environment by running the following lines of code:
+
+\begin{list}{}{\setlength\leftmargin{2.5em}}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{1pt}\vspace{-2.5ex}
+  \item\small \textbf{Command-Line Interface} \normalsize \vspace{-2.5ex}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}\vspace{-0.8ex}
+  
+  \begin{codebox}
+    \begin{Verbatim}[breaklines = true, breaksymbol = \textcolor{idlelinnum}{\scriptsize$\hookrightarrow$}, commandchars = \\\{\}]
+\func{renv::init()}      \com{# Initialize the project.}
+\func{renv::restore()}   \com{# Download packages and their version saved in the lockfile.}
+  \end{Verbatim}
+  \end{codebox}
+
+  \vspace{-4ex}
+  \item\noindent\rule[0.3ex]{\dimexpr\textwidth - 2.5em\relax}{0.4pt}
+\end{list}
+
+\newpage
+
+:::{.callout-note}
+If you are asked to update packages, say no. The `renv()` is intended to recreate the same environment under which the project was created, making it reproducible. You are ready to proceed when running `renv::restore()` gives the output:
+
+\vspace{1ex}
+\noindent\rule[0.3ex]{\textwidth}{1pt}\vspace{0ex}
+\small \textbf{RStudio Console} \normalsize\vspace{0ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}\vspace{-0.5ex}
+
+```{.bash}
+- The library is already synchronized with the lockfile.
+```
+
+\vspace{-2.5ex}
+\noindent\rule[0.3ex]{\textwidth}{0.4pt}
+\vspace{1ex}
+
+If you experience any trouble with this step, you might want to confirm that you are using R (v 4.5.2) in the RStudio IDE (v 2026.01.1+403) and Quarto (v 1.8.27). You can also read more about `renv()` in their [vignette](https://rstudio.github.io/renv/articles/renv.html)\ [@renv_intro].
+:::
+
+## Ignored Files
+
+Some project documents, scripts, and files are not distributed on GitHub or tracked by Git. Many of these are stored in `**/KEEP LOCAL/` directories or are explicitly listed under the "Project-Specific Exclusions" section of the `.gitignore` file.
+
+Some of these files are available on the project SharePoint, while others are user-specific and do not need to be shared. If there are local-only files for this project, they will be added to the "Codebase Local Only Files" directory. This directory will contain a `README.rtf` file specifying the intended filepath for each file.
+
+The YaleNew typeface must be downloaded directly by the user and requires NetID access: [Yale Typefaces](https://yaleidentity.yale.edu/core-identity-elements/yale-typefaces). This typeface is only used by `SOP.qmd`. Place the downloaded files in `_styles/`.
+
 
 # Maintaining the Website
 
@@ -112,14 +195,29 @@ quarto publish gh-pages
 9. Commit and push your changes. This will automatically trigger a republish of the website. If manual republishing is needed, refer to the instructions in the previous section.
 
 
+## Managing Leaving Members and Alumnae
+
+When a lab member departs, their profile is removed from the "People/Current Members" page. If the departing member was a PhD student or Postdoctoral Researcher, an abbreviated version of their profile is moved to the "People/Alumni" page, retaining only their name, headshot, new appointment description, and a link to their academic or LinkedIn profile.
+
+## Adding new Software
+
+Software is presented on the "People/Software" page using Quarto's native listing feature. The displayed content is populated from items defined in the YAML header under listing $\hookrightarrow$ contents. To add a new entry, copy an existing listing, paste it below, and fill in each field with the relevant information: title, authors, categories (e.g., "R Package", "Shiny Web Application", "Python Package"), and description.
+
+## Publications and Preprints
+
+The `publications-preprints.qmd` file is self-maintaining — it uses an R script to automatically scrape publications from PubMed and requires no manual updates. The publications page is refreshed every time the website is republished, whether triggered by a push or a scheduled GitHub Action.
+
+
 # Maintaining the SOP
 
 
-This Standard Operating Procedure (SOP) uses a preconfigured LaTeX formatting script. The report `*.qmd` and formatting files are located in "code/Standard Operating Procedure (SOP)/."
+This Standard Operating Procedure (SOP) uses a preconfigured LaTeX formatting script. The report `*.qmd` and formatting files are located in "code/Standard Operating Procedure (SOP)/".
 
 If you are updating the document, please add your name to the **Authors** field and update the **Date Updated** field accordingly. The LaTeX formatting script will automatically include the date the document was rendered at the top of the page.
 
-To preview a rendered version of the document, comment out the following line in the website's `_quarto.yml`:
+Indented code blocks use Verbatim code environments, which require additional formatting to align the environment and apply code highlighting. Use "Code Highlighting Formatting_Verbatim.R" to prepare code for this environment and one-level indentation.
+
+To preview a rendered version of these documents, comment out the following line in the website's `_quarto.yml`:
 
 \vspace{-2.5ex}
 \noindent\rule[0.3ex]{\textwidth}{1pt}\vspace{-2.5ex}
@@ -128,6 +226,7 @@ To preview a rendered version of the document, comment out the following line in
 
 ```{.yml}
 - "!code/Standard Operating Procedure (SOP)/SOP.qmd"
+- "!code/Standard Operating Procedure (SOP)/Code Highlighting Formatting_Verbatim.qmd"
 ```
 
 \vspace{-5.5ex}
