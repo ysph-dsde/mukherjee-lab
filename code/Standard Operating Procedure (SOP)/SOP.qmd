@@ -5,6 +5,7 @@ format:
       - text: |
           \input{SOP Formatting/PDF Formatting Script.tex}
 highlight-style: ../../_styles/idle-fingers-light.theme
+bibliography: references.bib
 csl: ../nature.csl
 ---
 

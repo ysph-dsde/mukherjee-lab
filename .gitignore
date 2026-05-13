@@ -25,6 +25,7 @@
 
 *_files
 *.html
+*.pptx
 /_quarto_internal_scss_error.scss
 **/*.quarto_ipynb
 
