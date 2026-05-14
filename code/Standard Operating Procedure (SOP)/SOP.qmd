@@ -25,7 +25,7 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 
 **Date Effective:** May 7<sup>th</sup>, 2026
 
-**Date Updated:** May 7<sup>th</sup>, 2026
+**Date Updated:** May 13<sup>th</sup>, 2026
 
 
 \tableofcontents
@@ -35,7 +35,7 @@ The purpose of this document is to outline the contents and ongoing maintenance 
 
 - [Website](https://ysph-dsde.github.io/mukherjee-lab/)
 - [GitHub Repository](https://github.com/ysph-dsde/mukherjee-lab)
-- SharePoint (located in "DSDE - Core/General/Media & Communications/Website/Mukherjee Lab")
+- [SharePoint](https://yaleedu.sharepoint.com/sites/DSDEIntiativeCore/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDSDEIntiativeCore%2FShared%20Documents%2FGeneral%2FMedia%20%26%20Communications%2FWebsite%2FMukherjee%20Lab&) (located in "DSDE - Core/General/Media & Communications/Website/Mukherjee Lab")
 
 The project SharePoint folder contains additional links and files, including backups of CV, headshot images, and the new lab member survey link.
 
