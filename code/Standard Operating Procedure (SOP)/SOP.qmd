@@ -238,4 +238,4 @@ This line prevents the SOP from being rendered by the GitHub Actions workflow. O
 
 Once you have finished editing the document render it, move the resulting `*.pdf` to the project's root directory, then commit and push your changes.
 
-
+# References
