@@ -116,6 +116,21 @@ Snigdha Das is a Postdoctoral Associate in the Department of Biostatistics at th
 
 <br>
 
+## Madeline Brooks, PhD, MPH
+
+::: {style="float: left; margin-right: 20px;"}
+<img width="300" height="300" src="../content/images/headshots-people/madeline-brooks.jpg" alt="Madeline Brooks" style="border-radius: 50%; object-fit: cover; object-position: center 20%;" />
+:::
+
+[{{< fa envelope size=lg >}}](mailto:madeline.brooks@yale.edu)
+[{{< fa file-lines size=lg >}}](../content/cv/madeline-brooks.pdf)
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/madelinebrooks/)
+
+Madeline Brooks, PhD, MPH is a Postdoctoral Associate in the Public Health Data Science and Data Equity (DSDE) initiative at the Yale University School of Public Health. She received her PhD in Epidemiology from Johns Hopkins University and her MPH in Public Health Practice from Thomas Jefferson University. Her research focuses on causal inference, electronic health records, artificial intelligence, and spatial analysis, with applications to age-related chronic disease.
+
+
+<br>
+
 ## Yiren Hou, M.S.
 
 ::: {style="float: left; margin-right: 20px;"}
