@@ -98,21 +98,21 @@ Henan Xu is a Postdoctoral Associate in the Department of Biostatistics at Yale 
 <br>
 
 
-## Shelby Golden, M.S.
+## Snigdha Das, Ph.D.
 
 ::: {style="float: left; margin-right: 20px;"}
-<img width="300" src="../content/images/headshots-people/shelby-golden.png" />
+<div style="width: 300px; height: 300px; border-radius: 50%; overflow: hidden;">
+<img src="../content/images/headshots-people/snigdha-das.jpg" alt="Snigdha Das" style="width: 581px; max-width: none; height: auto; transform: translate(-150px, -194px);" />
+</div>
 :::
 
-[{{< fa house size=lg >}}](https://ysph.yale.edu/profile/shelby-golden/)
-[{{< fa envelope size=lg >}}](mailto:shelby.golden@yale.edu)
-[{{< fa file-lines size=lg >}}](../content/cv/shelby-golden.pdf)
-[{{< fa brands github size=lg >}}](https://github.com/sgolde13) 
-[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/shelby-golden/)
+[{{< fa envelope size=lg >}}](mailto:snigdha.das@yale.edu)
+[{{< fa user size=lg >}}](https://das-snigdha.github.io)
+[{{< fa brands github size=lg >}}](https://github.com/das-snigdha)
+[{{< fa brands linkedin size=lg >}}](https://www.linkedin.com/in/snigdha-das1812/)
 
+Snigdha Das is a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health. She received her PhD in Statistics from Texas A&M University in 2026. Her research interests lie broadly in developing rigorous and computationally efficient statistical methods for analyzing complex health data. Her doctoral work focused on advancing Bayesian inference and computation under complex data-generating mechanisms. This included methodological developments in Bayesian nonparametrics, selection bias in probability sampling, and deep generative modeling, with an emphasis on valid uncertainty quantification and applications in oral health and biomedicine.
 
-Shelby Golden is a data scientist with a background in computational mathematics, molecular biology, and biochemistry. She holds a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry with a minor in Engineering in Applied Mathematics. Her expertise in both computational sciences and biology allows her to effectively bridge the gap between data and domain knowledge.
- 
 
 <br>
 
